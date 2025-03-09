@@ -1,4 +1,4 @@
-Hi, I'm Ajay Kakumanu! 👋
+**Hi, I'm Ajay Kakumanu! 👋**
 
 🚀 About Me
 
