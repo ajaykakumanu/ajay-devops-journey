@@ -28,5 +28,5 @@
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko)
 * [BuildKit](https://github.com/moby/buildkit)
 
-### Build images
+### JSL
 * [Jenkins Shared libraray](https://github.com/ajaykakumanu/ajaydevopstechprofile/blob/main/Jenkins%20Shared%20Libraries%20(JSL).pdf)
