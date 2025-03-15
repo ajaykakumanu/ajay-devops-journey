@@ -2,8 +2,6 @@
 
 &nbsp;
 
-412-218-4219 | [ajay.kakumanu@gmail.com](mailto:ajay.kakumanu@gmail.com) |<https://www.linkedin.com/in/ajaykakumanu/>
-
 **SUMMARY**
 
 - Seasoned Software Engineer with over 15+ years of industry experience in **Software development** and **DevOps/**SRE practices. Equipped with a proven track record of building robust software solutions and optimizing development workflows.
@@ -33,7 +31,7 @@
 - Microsoft Certified Azure Developer certification.
 - AWS Certified Sys-Ops Administrator & Developer Associate Level.
 - AWS Certified Solutions Architect-Professional Level.
-- **Python** **Programming** Certified by Cornell University
+- [**Python** **Programming** Certified by Cornell University](https://mycredentials.ecornell.cornell.edu/credential/PNwwhBlXsp)
 
 **Accomplishments**
 
@@ -48,3 +46,5 @@
   users, improving system reliability and reducing unplanned outages by 25%.
 
 [**Detailed Work Experience**](Work-Experience.md)
+
+Please reach me <https://www.linkedin.com/in/ajaykakumanu/>
