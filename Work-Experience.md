@@ -13,7 +13,7 @@
   - Implement various Container Design patterns like Side car container, Init Container, Jobs, corn jobs.
   - Liveness and Readiness probes are used to control the health of an application running inside Pods ‘container.
   - Used ConfigMap and Secrets to store non-confidential data in Key value pair.
-  - Implemented Kubernetes Security best practices ()
+  - Implemented Kubernetes [**Security best practices**](Kubernetes best practices.docx)
 - Implemented various types of **CI/CD pipeline patterns**
   - Applications deployment pipeline.
   - Infrastructure as a pipe line code.
@@ -26,7 +26,7 @@
   - Bulkhead
   - Timeout
   - Fail-back
-- Implemented various techniques to How to Improve the pipelines?
+- Implemented various techniques to How to Improve the pipelines
   - Parallelism in Builds
   - Customize builds based on Environment and skip few stages
   - Using multiagent Jenkins based on the region
