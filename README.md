@@ -47,4 +47,4 @@
 - Established **proactive monitoring practices** using the **USE** method to detect potential issues before they impact 
   users, improving system reliability and reducing unplanned outages by 25%.
 
-[**Work Experience**](Work-Experience.md)
+[**Detailed Work Experience**](Work-Experience.md)
