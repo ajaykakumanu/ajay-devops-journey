@@ -11,13 +11,16 @@
 - Proficient in **DevOps tools**, implementing Continuous Integration/Continuous Delivery pipelines.
 - Strong Programming skills in C, C++, **Groovy,** **Python** and **Java**.
 - Proficient in **Data Structures** and **Algorithms**, with in-depth time and space complexity analysis.
-- Strong grasp of Site Reliability Engineering **principles** and SRE design patterns, focusing on **system reliability, High Availability**, automation, and managing QoS and SLAs to optimize performance.
-- Good knowledge of Fault Tolerance, Database Concepts, Security, IT Infrastructure, Resilience, and Migration to Cloud Environment.
+- Strong grasp of Site Reliability Engineering **principles** and SRE design patterns, focusing on **system reliability, High 
+  Availability**, automation, and managing QoS and SLAs to optimize performance.
+- Good knowledge of Fault Tolerance, Database Concepts, Security, IT Infrastructure, Resilience, and Migration to Cloud 
+  Environment.
 - Good knowledge of Architectural patterns that are secure, reliable, and high performing applications.
 - Hands-on experience with a variety of **logging** , **alerting** tools, and **cost control** strategies.
 - Good knowledge on **Caching** Best Practices like Redis, ElastiCache and Amazon CloudFront.
 - Developed Apps on various mobile platforms such as Android / Ericson/LG /QT/Windows Mobile.
-- Expertise in writing **Build Automation tools**, for Build releases, Integration, and optimizing build performance using tools like CPerf, Wireshark, and Visual Studio Profilers.
+- Expertise in writing **Build Automation tools**, for Build releases, Integration, and optimizing build performance using 
+  tools like CPerf, Wireshark, and Visual Studio Profilers.
 - Proficient in **troubleshooting**, triaging, debugging, and fixing historical/critical issues.
 - Expertise in Object Oriented concepts (**OOPS**), SDLC, and **Architectural** and **Design patterns**.
 - Exposure to and interest in **open-source** frameworks, tools, and technologies.
