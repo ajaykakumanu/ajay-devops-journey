@@ -1,5 +1,7 @@
 **AJAY KAKUMANU**
+
 &nbsp;
+
 **SUMMARY**
 - Seasoned Software Engineer with over 15+ years of industry experience in **Software development** and **DevOps/**SRE practices. Equipped with a proven track record of building robust software solutions and optimizing development workflows.
 - 9+ years of experience in multi-cloud computing platforms (AWS, Azure, GCP) and **modernizing**, **automating** legacy applications, and implementing **DevOps**/SRE **practices**.
