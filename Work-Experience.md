@@ -11,10 +11,9 @@
    the **AKS** cluster.
   - Created helm charts for Pods, deployments, services, Ingress
   - Implement various Container Design patterns like Side car container, Init Container, Jobs, corn jobs.
-
-- - Liveness and Readiness probes are used to control the health of an application running inside Pods ‘container.
-    - Used ConfigMap and Secrets to store non-confidential data in Key value pair.
-    - Implemented Kubernetes Security best practices ()
+  - Liveness and Readiness probes are used to control the health of an application running inside Pods ‘container.
+  - Used ConfigMap and Secrets to store non-confidential data in Key value pair.
+  - Implemented Kubernetes Security best practices ()
 - Implemented various types of **CI/CD pipeline patterns**
   - Applications deployment pipeline.
   - Infrastructure as a pipe line code.
