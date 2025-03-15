@@ -25,9 +25,7 @@
 - Expertise in Object Oriented concepts (**OOPS**), SDLC, and **Architectural** and **Design patterns**.
 - Exposure to and interest in **open-source** frameworks, tools, and technologies.
 - Good team player and proficient in Customer interactions with good oral and communication skills.
-- **Led onshore and offshore** service delivery functions with a proactive approach to ensure end-to-end ownership of **incidents** and **service requests**. (**Mentoring**, Multitasking, and **Coordination**)
-- Highly skilled and experienced in Agile Methodologies (Scrum, Kanban).
-- Excellent interpersonal skills in English, including verbal and written communication, empathy, Passion, delegation, and team building, to foster a positive working environment.
+- **Led onshore and offshore** service delivery functions with a proactive approach to ensure end-to-end ownership of **incidents** and **service requests**. 
 
 **Certifications**
 
@@ -36,31 +34,6 @@
 - AWS Certified Sys-Ops Administrator & Developer Associate Level.
 - AWS Certified Solutions Architect-Professional Level.
 - **Python** **Programming** Certified by Cornell University
-
-**Education**
-
-- Master’s in computer science and engineering, India
-- Bachelor’s degree in computer science and engineering, India
-
-**Technical Skills**
-
-Programming Languages Java, C,C++, Groovy, C#, Shell script, Python, Go
-
-DevOps Tools Docker, Jenkins, Kubernetes, Helm, Terraform, JFrog, Ansible
-
-DevSecOps Tools SAST(SonarQube,CheckMarx), DAST(OWASP ZAP), Aqua,
-
-Gitguardian, CodeQL, SCA(Blackduck)
-
-Build tools Make, CMake, Ant, Maven, Gradle
-
-Open-Source Frameworks Jenkins, Prometheus, Grafana, Docker, Code Climate
-
-Testing Frameworks pytest, JUnit, Mockito, CTest, JenkinsPipelinetest
-
-SCM Tools Git, Gitlab, GitHub, Subversion, Perforce, Bit bucket
-
-Quality & Monitoring tools AppDynamics, Splunk, Lint, ELK, Prometheus, Grafana
 
 **Accomplishments**
 
@@ -73,117 +46,7 @@ Quality & Monitoring tools AppDynamics, Splunk, Lint, ELK, Prometheus, Grafana
 
 **Work Experience**
 
-**Senior DevOps Engineer (CI/CD Specialist)**
+**DevOps and CI/CD experience**
 
-Project: “**Build and Release Team**” Company: Blue Yonder (**Full time**) Place: WI 08/2019 - Present
 
-Platform & Tools: Jenkins, Docker, Kubernetes, Gradle, Linux, Groovy, Azure, Bitbucket, Java, Ansible, Liquibase
 
-Jira, Confluence, AKV, GitOps, Service Mesh, ACR, ARM Templates, Bash, Packer, Python, pytest
-
-- Created **Docker** images for WMS/WLM applications with best practices.
-- Implemented comprehensive **Helm** charts including Pods, Deployments, Services, Ingress, and deployed applications into the **AKS** cluster.
-- Implemented **CI/CD pipeline patterns** and reliability strategies (Circuit Breaker, Bulkhead, Timeout, Failback) to enhance delivery efficiency, fault tolerance, and high availability during deployments.
-- Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and **Jenkins Shared Libraries** (**JSL**) **strategies**.
-- Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
-- Skilled in deploying **Infrastructure as Code (IaC)** solutions using Terraform and Terragrunt, with a focus on precise version management for Terraform modules within a mono-repo.
-- **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led decommissioning efforts to optimize resources and reduce costs.
-- Ensured **DevSecOps** enablement by securing pipelines from vulnerabilities.
-- Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
-- **Modernized** existing products through automation and containers (**SaaS transformation**).
-- Collaborated with **cross-functional teams** to identify and triage issues, ensuring timely problem resolution.
-- Implemented proactive Quality checks on customer environments using the Chef Inspec framework.
-- Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
-- Reduced manual efforts by automating **system tasks, builds, and deployments** using **Python** scripts integrated with **Jenkins** and **GitHub Actions**.
-- **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
-- Established K8's cluster **observability** with Elasticsearch, Prometheus, Grafana, Azure Monitor, and ELK Stack.
-- **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
-- Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
-- Provided on-call SRE support, promptly resolving critical issues and ensuring system stability.
-- Utilized **AI tools** like GitHub Copilot and Dependabot to accelerate delivery and dependency management.
-- Explored **MLOps concepts** (AI and Machine Learning Operations).
-
-**Company:** Wipro **Dates:** 04/2011 – 07/2019
-
-**Senior Cloud DevOps Developer**
-
-Project: “First and Last Mile” Client: FedEx Location: PA
-
-Platform & Tools: Java, C, C#, Spring, Linux, GCP, Python, Puppet, Conan, CPack, CTest, Catch2
-
-Oracle, GKE, Ansible, Artifactory, Nexus, JUnit, YAML, JSON, SonarQube
-
-- Designed and delivered "**single-click**" deployment solutions (canary).
-- **Modernized** ,Automated **legacy build processes**, transitioning from Make to Maven, streamlining the builds.
-- Contributed to Developing/fixing issues in Load Balancing, Service discovery and Directory services.
-- Installed and configured the Linux servers with build specifications using Configuration Management tools.
-- Designed and Developed **Automation** Regression Test Framework( **Performance** Optimization ).
-- Deployed Microservices on GCP Kubernetes, ensuring scalability and reliability in high-scale systems.
-- Implemented self-healing techniques and fault-tolerance services.
-- Involved in Disaster Recovery and fail-over strategies, minimizing downtime and ensuring business continuity.
-
-**Technical Lead**
-
-Project: “Cloud Broker Service Gateway” Client: Shell
-
-Platform & Tools: AWS, JSP, JAVA, AJAX, JavaScript, SOAP, MySQL, SQL, PaaS, Scripting, PowerShell,
-
-No-SQL (DynamoDB), GPU, Visual Studio, AWS Code Pipeline, jQuery, REST.
-
-- Orchestrated Subscription-Based **Multi-Tenant** Products on Diverse Public Cloud Service Providers.
-- Designed and Developed Enhancements of CSG using AWS APIS.
-- Enhanced the existing product with features like User roles (Lead, System Administration, Developer), ELB, Autoscaling, SES, SQS, and RDS scheduling, S3 backup policies improving overall system resiliency at scale.
-- Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch, Cloud Trail, and SNS.
-- Played a pivotal role in cloud security, VPN, IAM management, networking protocols and cost optimization.
-- Developed AWS CloudFormation templates for VPC and subnets, streamlining infrastructure provisioning.
-- Migrated on-premises production applications to the hybrid AWS environment, aligning with strategic goals.
-- Led and inspired the team through coaching, mentorship, and ramping up, demonstrating strong leadership, teamwork, and analytical skills with a touch of humor.
-- Worked with various SaaS(Software as a Service), IaaS and PaaS.
-
-**Technical Lead**
-
-Project: “Core BSP Security” Client: Qualcomm
-
-Platform & Tools: C,C++, Perforce, P4, Make, ARM,GNU C, Unix, Linux distributions.
-
-- Successfully implemented the "support of SHA-256" feature, enhancing the security of embedded systems.
-- Worked with cryptographic algorithms MD5, SHA, AES, and HMAC, ensuring robust security implementations.
-- Proactively integrated bug fixes and features into various target platforms like 7x, 8x, and 9x series.
-- Collaboration with different compilers and handset configurations, ensuring compatibility and reliability.
-- Proficiently led **Root cause analysis(RCA)** for incidents through the utilization of incident post-mortems to accurately diagnose and resolve issues.
-- Extensive experience with distributed build systems and build automation tools like Make and CMake, ensuring efficient development processes and orchestration.
-- Expert in memory layout optimization and proficient in implementing robust memory management techniques to prevent memory leaks and enhance application stability.
-- Responsible for code refactoring and maintenance tasks on a complex codebase.
-
-**Company:** Tietoevry **Dates:** 09/2006 - 03/2011
-
-**Senior Software Engineer**
-
-Project: “Build/Release team” Client: LG
-
-Platform & Tools: C, C++, Version Control, VmemSpy, Ant, Doxygen
-
-- Researched, explored, and significantly enhanced the Phone Development Kit.
-- Applied problem-solving and Critical thinking skills to identify and fix issues in Apps.
-- Creatively enforced the Messaging application on the Symbian SDK platform.
-- Executed functionality for the calendar (MEA Region) with a passionate commitment to user satisfaction.
-- Proficient in the end-to-end **C/C++ program development** lifecycle, from Preprocessing and **Compilation** to **Linking** (Static and Dynamic linking), Optimization, and **cache-friendly** code practices.
-- Participated in product testing, verification, and validation processes to ensure high-quality deliverables.
-- Demonstrated adaptability and flexibility in approaching complex challenges in mobile app development.
-- Managed **software dependency management** system to ensure smooth and error-free builds and releases.
-
-**Software Engineer**
-
-Project: “Framework Development” Client: Ericsson
-
-Platform & Tools: EMP, C, C++, JTag, Eclipse, SVN, Android, QT, Embedded
-
-- Implemented innovative ideas for operational Dual LCD support for Screen Rotation on display (360 deg).
-- Introduced scalability in UITK, enabling dynamic customization of UITK controls regardless of width and height.
-- Configured UITK to adapt dynamically for single or dual display configurations with thorough QA testing.
-- Developed a system-wide Copy and Paste Mechanism for Editable controls.
-- Enhanced user experience by introducing graphical emoticons in editable controls like Textbox and Text fields.
-- Dedicated and Delivered User attention and Audio control framework modules functionality.
-- Played a crucial role in a crash force team, analyzing and fixing critical issues, and ensuring on-time delivery.
-- Committed and independently fixed critical issues in applications Camera, Calendar, and Phone Book.
-- Planned, Developed Glue Layer (Abstraction) with a high level of motivation for architectural excellence.
