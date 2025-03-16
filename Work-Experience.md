@@ -35,7 +35,8 @@
   - Try to use Declarative than Scripted
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
-  - Implemented JSL using OOPS concepts and Software Design patterns.
+  - Designed and implemented JSL using Object-Oriented Programming (OOP) concepts and Software Design Patterns, adhering to 
+    SOLID principles for maintainability and scalability.
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
