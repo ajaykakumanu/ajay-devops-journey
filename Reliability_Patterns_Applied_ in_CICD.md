@@ -1,4 +1,4 @@
-## **Reliability Patterns Applied in CI/CD**
+## Reliability Patterns Applied in CI/CD
 
 Modern software delivery has shifted from monolithic applications to microservices architectures, where systems are split into smaller, independent services. This change has drastically impacted CI/CD (Continuous Integration/Continuous Deployment) pipelines, requiring patterns and best practices that ensure high availability, reliability, and faster delivery cycles.
 
@@ -38,6 +38,7 @@ This document outlines the key concepts and reliability patterns applied in CI/C
 - In CI/CD:
   - Introduce simulated failures as part of the deployment pipeline.
   - Validate service behavior under failure scenarios.
+  - Used for development purposes
 
 ### 6\. Timeout Pattern
 
@@ -55,15 +56,14 @@ This document outlines the key concepts and reliability patterns applied in CI/C
   - Use health checks and monitoring to trigger failback.
   - Ensures minimal disruption during failures.
 
-Monitoring and Observability Integration
+**8\. Monitoring and Observability Integration**
 
-Reliability and high availability depend heavily on observability. In microservices CI/CD pipelines, the following practices are applied:
-
-- - Pipeline Monitoring: Track build times, failures, success rates.
-    - Service Health Checks: Automate pre-deployment and post-deployment health checks.
-    - Log Aggregation: Collect logs across services for centralized analysis.
-    - Distributed Tracing: Trace requests across microservices to monitor performance.
-    - Error Budgets: Track error rates and automate rollback if error budget exceeds the threshold.
+- Reliability and high availability depend heavily on observability. In microservices CI/CD pipelines, the following practices are applied:
+  - Pipeline Monitoring: Track build times, failures, success rates.
+  - Service Health Checks: Automate pre-deployment and post-deployment health checks.
+  - Log Aggregation: Collect logs across services for centralized analysis.
+  - Distributed Tracing: Trace requests across microservices to monitor performance.
+  - Error Budgets: Track error rates and automate rollback if error budget exceeds the threshold.
 
 Pipeline Architecture Example
 
@@ -103,7 +103,7 @@ Sample Microservice Pipeline
 - Failures in Service A do not impact Service B.
 - Automated testing, canary releases, and monitoring are built-in.
 
-Conclusion
+**Conclusion**
 
 Microservices architectures require modern CI/CD pipelines that focus heavily on resilience and high availability. By applying patterns like Bulkhead, Circuit Breaker, Retry, Timeout, and Failback, organizations like Adobe, Microsoft, Nvidia, BY can build robust pipelines that:
 
@@ -114,7 +114,7 @@ Microservices architectures require modern CI/CD pipelines that focus heavily on
 
 By embedding these patterns into CI/CD pipelines, companies ensure that their microservices systems are reliable, resilient, and highly available, supporting continuous delivery of high-quality software.
 
-## Bulkhead Pattern in CI/CD Pipelines
+## Example: Bulkhead Pattern in CI/CD Pipelines
 
 **Introduction**
 
@@ -233,16 +233,9 @@ sh 'deploy-service-a.sh'
 | Bulkhead | Isolate components to limit failure spread | Separate agents for different microservices pipelines |
 | Circuit Breaker | Detect and stop calls to failing services | Stop deployment if repeated test failures occur |
 
-**Benefits Summary**
+**Real-World Usage in BY CI/CD**
 
-- Isolation of failures per service or stage
-- Reduced blast radius for failures
-- Parallel execution and faster feedback loops
-- Improved resource allocation and monitoring
-
-**Real-World Usage in Adobe CI/CD**
-
-Adobe and other large organizations apply the Bulkhead Pattern to:
+large organizations apply the Bulkhead Pattern to:
 
 - Run isolated pipelines per microservice
 - Use dedicated agent pools for different environments and teams
@@ -253,7 +246,7 @@ Adobe and other large organizations apply the Bulkhead Pattern to:
 
 The Bulkhead Pattern is essential in modern CI/CD pipelines, especially for organizations using **microservices architectures** and **multi-environment deployments**. It improves the overall **resilience, reliability, and speed** of software delivery pipelines.
 
-## Circuit Breaker Pattern in Jenkins CI/CD
+## Example: Circuit Breaker Pattern in Jenkins CI/CD
 
 In Jenkins CI/CD, the Circuit Breaker Pattern ensures that the pipeline continues to function gracefully even when external dependencies, such as APIs or databases, become unavailable or unreliable. This pattern helps in preventing wasted efforts and time by automatically halting failed service calls and retrying them in a controlled manner, or skipping certain steps while continuing other processes.
 
