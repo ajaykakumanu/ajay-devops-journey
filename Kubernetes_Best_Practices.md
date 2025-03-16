@@ -5,6 +5,7 @@ Security in Kubernetes is configured at multiple levels. If you are using a clou
 **Security Contexts**
 
 Security contexts configure Pods and Containers at runtime. Setting the security context for a Pod ensures that it operates with the necessary security constraints.
+![image](https://github.com/user-attachments/assets/fac48a2e-2543-4738-81af-f7681d27cca1)
 
 **Configure Service Accounts for Pods**
 
