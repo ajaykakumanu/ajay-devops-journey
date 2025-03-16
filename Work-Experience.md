@@ -58,10 +58,13 @@
 - **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
 - Established K8's cluster **observability** with Elasticsearch, Prometheus, Grafana, Azure Monitor, and ELK Stack.
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
+- Implemented [**Liquibase**](https://tinyurl.com/bdcs6mb2) for automated database schema versioning and integrated it with Jenkins CI/CD pipelines to 
+   ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
 - Provided on-call SRE support, promptly resolving critical issues and ensuring system stability.
 - Utilized **AI tools** like GitHub Copilot and Dependabot to accelerate delivery and dependency management.
-  - Researched and crafted appropriate prompts to speed up code development, including refactoring, adding unit test cases, and improving documentation.
+  - Researched and crafted appropriate prompts to speed up code development, including refactoring, adding unit test cases, 
+    and improving documentation.
   - Implemented GitHub Copilot for pull request (PR) reviews to enhance code quality.
   - Used Dependabot to identify the latest versions of dependencies, apply patches, and mitigate security vulnerabilities.
 - Explored **MLOps concepts** (AI and Machine Learning Operations).
