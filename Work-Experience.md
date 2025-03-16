@@ -13,7 +13,7 @@
   - Implement various Container Design patterns like Side car container, Init Container, Jobs, corn jobs.
   - Liveness and Readiness probes are used to control the health of an application running inside Pods ‘container.
   - Used ConfigMap and Secrets to store non-confidential data in Key value pair.
-  - Implemented Kubernetes [**Security best practices**](Kubernetes_Best_Practices.docx)
+  - Implemented Kubernetes [**Security best practices**](Kubernetes_Best_Practices.md)
 - Implemented various types of **CI/CD pipeline patterns**
   - Applications deployment pipeline.
   - Infrastructure as a pipe line code.
@@ -21,7 +21,7 @@
   - Trigger the Right Pipeline like a chain fashion.
   - Run parallel.
 - Implemented following reliability strategies **CI/CD pipeline patterns** to enhance delivery efficiency, fault tolerance, 
-     and high availability during deployments. [**Reliability patterns**](Reliability_Patterns_Applied_in_CICD.docx)
+     and high availability during deployments. [**Reliability patterns**](Reliability_Patterns_Applied_in_CICD.md)
   - Circuit Breaker
   - Bulkhead
   - Timeout
@@ -34,10 +34,10 @@
   - Added best practices about JSL
   - Try to use Declarative than Scripted
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
-  - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.docx).
+  - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
   - Implemented JSL using OOPS concepts and Software Design patterns.
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
-  - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.docx)
+  - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
 - Skilled in deploying **Infrastructure as Code (IaC)** solutions using Terraform and Terragrunt, with a focus on precise version management for Terraform modules within a mono-repo.
   - Based on DRY DRY(donot repeat the your self) created Terrafom modules.
