@@ -89,21 +89,6 @@ Jenkins is widely used for CI/CD automation, but it comes with various technical
 
 Jenkins CI/CD pipelines, while powerful, come with their own set of challenges. Understanding these issues and applying best practices such as shared libraries, optimizing pipeline steps, and maintaining updated plugins can greatly improve pipeline reliability and maintainability. Regular monitoring and proactive troubleshooting are key to managing Jenkins pipelines efficiently.
 
-**Reference links**
-
-<https://www.jenkins.io/doc/book/pipeline/cps-method-mismatches/>
-
-<https://www.appsloveworld.com/coding/jenkins/11/jenkins-pipeline-throws-proxyexception-expected-to-call-device-init-but-wound?expand_article=1>
-
-<https://www.jenkins.io/doc/book/pipeline/cps-method-mismatches/#constructors>
-
-<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/doc/cps-basics.md>
-
-<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/README.md>
-
-<https://medium.com/@bakselro/groovy-vs-jenkins-groovy-d490301fa4d8>
-
-<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/README.md#technical-design>
 
 **Cyclomatic Complexity in Jenkins Pipeline Code**
 
@@ -186,3 +171,19 @@ break
 - If you only have a few environment checks, **contains() approach is best** for simplicity.
 - If environments are dynamically changing, **each() loop is better**.
 - If you need scalability with multiple cases, **use switch**.
+
+**Reference links**
+
+<https://www.jenkins.io/doc/book/pipeline/cps-method-mismatches/>
+
+<https://www.appsloveworld.com/coding/jenkins/11/jenkins-pipeline-throws-proxyexception-expected-to-call-device-init-but-wound?expand_article=1>
+
+<https://www.jenkins.io/doc/book/pipeline/cps-method-mismatches/#constructors>
+
+<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/doc/cps-basics.md>
+
+<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/README.md>
+
+<https://medium.com/@bakselro/groovy-vs-jenkins-groovy-d490301fa4d8>
+
+<https://github.com/jenkinsci/workflow-cps-plugin/blob/master/README.md#technical-design>
