@@ -71,6 +71,9 @@
 
 ## Builds and Automation experience
 
+- Mindset!! Why Not Automate?
+  - Proactively identify and eliminate manual tasks by implementing automation solutions for AppDynamics and Splunk 
+    provisioning using Python and Ansible, improving efficiency, consistency, and scalability.
 - Designed and delivered "single-click" deployment solutions (canary).
 - Modernized ,Automated legacy build processes, transitioning from Make to Maven, streamlining the builds.
 - Contributed to Developing/fixing issues in Load Balancing, Service discovery and Directory services.
