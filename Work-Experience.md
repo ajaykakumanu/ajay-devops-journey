@@ -56,7 +56,6 @@
 - Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
 - Reduced manual efforts by automating **system tasks, builds, and deployments** using **Python** scripts integrated with **Jenkins** and **GitHub Actions**.
 - **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
-- Established K8's cluster **observability** with Elasticsearch, Prometheus, Grafana, Azure Monitor, and ELK Stack.
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
 - Implemented [**Liquibase**](https://tinyurl.com/bdcs6mb2) for automated database schema versioning and integrated it with Jenkins CI/CD pipelines to 
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
@@ -107,3 +106,13 @@
   analytical skills with a touch of humor.
 - Worked with various SaaS(Software as a Service), IaaS and PaaS.
 - Involved in Disaster Recovery and fail-over strategies, minimizing downtime and ensuring business continuity.
+
+## Observability and Monitoring 
+
+- Integrating **OpenTelemetry** with Jenkins Pipelines, along with Elasticsearch and Jaeger, is an excellent approach for 
+  distributed tracing, performance monitoring, and debugging latency issues.  
+- Established K8's cluster **observability** with Elasticsearch, Prometheus, Grafana, Azure Monitor, and ELK Stack.
+- Implemented AppDynamics to monitor and optimize database performance, including SQL queries, transaction times, and health 
+  metrics.
+- Integrated Splunk for centralized log aggregation and monitoring, enhancing observability of application metrics, error 
+  rates, and user transactions.
