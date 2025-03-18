@@ -45,7 +45,7 @@
   - Implement Terraform dependency management.
 - **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led decommissioning efforts to optimize resources and reduce costs.
   - Implemented Decommission pipelines which saves cost of Azure resources.
-- Ensured **DevSecOps** enablement by securing pipelines from vulnerabilities.
+- Ensured **DevSecOps**[DevSecOps_Practices.md] enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
   - Researched on DevOps tools like OpenTelementry , Jabera ..
