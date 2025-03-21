@@ -39,7 +39,7 @@
     SOLID principles for maintainability and scalability.
 - Developed and contributed to the organization's shared library by implementing **reusable GitHub workflows** and Jenkins 
   shared libraries, optimizing CI/CD automation and standardizing pipeline processes across teams
-- Designed and implemented reusable, **agnostic**, script-driven CI/CD workflows to enhance scalability, flexibility, and 
+- Designed and implemented **agnostic**, script-driven CI/CD workflows to enhance scalability, flexibility, and 
   maintainability across Jenkins, GitHub Actions, minimizing migration efforts and operational overhead
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
