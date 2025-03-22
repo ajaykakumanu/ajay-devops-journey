@@ -26,13 +26,26 @@
   - Bulkhead
   - Timeout
   - Fail-back
-- Implemented various techniques to How to Improve the pipelines
+- Implemented various techniques to How to Improve the pipelines(scalability) for larger work loads 
+  - Infrastructure Scalability
+    - Horizontal Scaling (Add more CI/CD servers or agents to handle additional load)
+    - Dynamic agents using Docker Images.
   - Parallelism in Builds
+    - Configure pipelines to run multiple jobs in parallel. (use matrix stretegy )
+    - Configure pipelines to run multiple satges in parallel.
   - Customize builds based on Environment and skip few stages
+    - Dev, Non prod does not need all stages.
   - Using multiagent Jenkins based on the region
+    - reduce the latency issues if Jenkins agent and deployble VM is same region
   - Added notification if any build failure
+     - reduces the quicker feed back
   - Added best practices about JSL
   - Try to use Declarative than Scripted
+  - Monitoring and Logging
+    - use observebility tool like telemetry to troubleshoot issues
+  - Pipeline Optimization
+    - Caching (Implement caching mechanisms to reuse dependencies and artifacts between builds)
+    - Incremental Builds (Configure the pipeline to only build and test changed components rather than the entire project)
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
   - Designed and implemented JSL using Object-Oriented Programming (OOP) concepts and Software Design Patterns, adhering to 
