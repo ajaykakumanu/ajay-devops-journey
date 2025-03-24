@@ -26,6 +26,7 @@
   - Bulkhead
   - Timeout
   - Fail-back
+  - Idempotency
 - Implemented various techniques to How to Improve the pipelines (**Scalability**) for larger work loads 
   - Infrastructure Scalability
     - Horizontal Scaling (Add more CI/CD servers or agents to handle additional load)
