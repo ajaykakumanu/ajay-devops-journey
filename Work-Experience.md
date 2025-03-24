@@ -1,3 +1,9 @@
+## DevOps philosophy 
+- How to **support developers** to increase their productivity , by focusing only their tasks.
+- How to **support to Organization** to deliver the new features with out effecting existing features.
+- Always **Automation** mind set.
+- Keep in mind, your pipelines **may not run by experts**, provide enough documentation.
+
 ## DevOps and CI/CD experience
 
 - Created **Docker** images for WMS/WLM applications with best practices.
