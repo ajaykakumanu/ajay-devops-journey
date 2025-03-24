@@ -56,14 +56,27 @@ This document outlines the key concepts and reliability patterns applied in CI/C
   - Use health checks and monitoring to trigger failback.
   - Ensures minimal disruption during failures.
 
-**8\. Monitoring and Observability Integration**
+**8\. Idempotency**
 
-- Reliability and high availability depend heavily on observability. In microservices CI/CD pipelines, the following practices are applied:
-  - Pipeline Monitoring: Track build times, failures, success rates.
-  - Service Health Checks: Automate pre-deployment and post-deployment health checks.
-  - Log Aggregation: Collect logs across services for centralized analysis.
-  - Distributed Tracing: Trace requests across microservices to monitor performance.
-  - Error Budgets: Track error rates and automate rollback if error budget exceeds the threshold.
+- Description: Automatically revert to a previous stable state if a new deployment fails.
+- In CI/CD:
+  - Implement automatic rollback in pipelines.
+  - Use health checks and monitoring to trigger failback.
+  - Ensures minimal disruption during failures.
+
+**9\. Monitoring and Observability Integration**
+
+- Ensuring idempotency in Jenkins pipelines means that running the pipeline multiple times with the same input should produce the same outcome without unintended side effects
+  - Best strategy is use checks.
+  - For example if Artifact is already generated , checks the build folder if the executable file present.then don’t run again
+  - Req installed stage already run , do not run again (Please take care , some installation on epherimal ).
+  - Make sure Add idempotecy to the Sql scripts, shell script. try Add checks before execute commands
+    - If the user is already created , donot create
+    - If the user is already deleted , donot delete
+    - If the Database is already deleted , donot delete
+  - use any persistence env config like Azure App config
+  - If the VM stage is already completed , donot run
+  - If the DB VM stage is already completed , donot run 
 
 Pipeline Architecture Example
 
