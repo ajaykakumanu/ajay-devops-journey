@@ -97,7 +97,7 @@
 - "**Automation Mindset: Why Not Automate**?"
   - Proactively identify and eliminate manual tasks by implementing automation solutions for AppDynamics and Splunk 
     provisioning using Python and Ansible, improving efficiency, consistency, and scalability.
-- Implemented **Build Performance **
+- Implemented **Build Performance**
   - Build Avoidance 
   - Incremental Builds
   - Caching
