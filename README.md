@@ -29,10 +29,10 @@
 
 **Certifications**
 
-- Google Cloud Certified Associate Cloud Engineer.
-- Microsoft Certified Azure Developer certification.
+- [Google Cloud Certified Associate Cloud Engineer](https://drive.google.com/file/d/1tm1ZSjCJf8wvQWITN0KZo-Za4BkTWBa0/view?usp=drive_link)
+- [Microsoft Certified Azure Developer certification](https://drive.google.com/file/d/1L8wKdzU5eXULFtta9qvF70Bw1OYbAxoB/view?usp=drive_link)
 - AWS Certified Sys-Ops Administrator & Developer Associate Level.
-- AWS Certified Solutions Architect-Professional Level.
+- [AWS Certified Solutions Architect-Professional Level](https://drive.google.com/file/d/1ZRU_27O6pwc5ZaWLAaYSxjvUIASUULz3/view?usp=drive_link)
 - [**Python** **Programming** Certified by Cornell University](https://mycredentials.ecornell.cornell.edu/credential/PNwwhBlXsp)
 
 **Accomplishments**
