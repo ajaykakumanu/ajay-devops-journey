@@ -78,44 +78,6 @@ This document outlines the key concepts and reliability patterns applied in CI/C
   - If the VM stage is already completed , donot run
   - If the DB VM stage is already completed , donot run 
 
-Pipeline Architecture Example
-
-Sample Microservice Pipeline
-
-┌──────────────────────────┐
-
-│ Build Stage │
-
-├──────────────────────────┤
-
-│ Unit Tests Run │
-
-├──────────────────────────┤
-
-│ Container Build & Push │
-
-├──────────────────────────┤
-
-│ Deploy to Staging Env │
-
-├──────────────────────────┤
-
-│ Run Integration Tests │
-
-├──────────────────────────┤
-
-│ Canary Deployment to Prod│
-
-├──────────────────────────┤
-
-│ Full Production Rollout │
-
-└──────────────────────────┘
-
-- Each microservice has an independent pipeline.
-- Failures in Service A do not impact Service B.
-- Automated testing, canary releases, and monitoring are built-in.
-
 **Conclusion**
 
 Microservices architectures require modern CI/CD pipelines that focus heavily on resilience and high availability. By applying patterns like Bulkhead, Circuit Breaker, Retry, Timeout, and Failback, organizations like Adobe, Microsoft, Nvidia, BY can build robust pipelines that:
