@@ -37,6 +37,8 @@
   - Infrastructure Scalability
     - Horizontal Scaling (Add more CI/CD servers or agents to handle additional load)
     - Dynamic agents using Docker Images.
+  - Concurrent builds
+    - Based on number of executors
   - Parallelism in Builds
     - Configure pipelines to run multiple jobs in parallel. (Ex: matrix stretegy )
     - Configure pipelines to run multiple satges in parallel (Ex : use parallel)
