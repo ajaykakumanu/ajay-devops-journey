@@ -63,6 +63,8 @@
   shared libraries, optimizing CI/CD automation and standardizing pipeline processes across teams
 - Designed and implemented **agnostic**, script-driven CI/CD workflows to enhance scalability, flexibility, and 
   maintainability across Jenkins, GitHub Actions, minimizing migration efforts and operational overhead
+- Designed and implemented **Sophisticated CI/CD** pipelines leveraging both **GitHub Actions** and **Jenkins**, integrated with **Python** automation.
+  - Developed a pipeline to automatically update expired secrets across all environments 2000+, ensuring secure and efficient key rotation.
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
@@ -71,6 +73,7 @@
   - Implement Terraform dependency management.
 - **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led decommissioning efforts to optimize resources and reduce costs.
   - Implemented Decommission pipelines which saves cost of Azure resources.
+  - Add Dry-run option to the pipelines.
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
