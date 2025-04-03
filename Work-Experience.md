@@ -59,8 +59,11 @@
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
   - Designed and implemented JSL using Object-Oriented Programming (**OOPS**) concepts and Software Design Patterns, adhering to 
     **SOLID** principles for maintainability and scalability.
-- Developed and contributed to the organization's shared library by implementing **reusable GitHub workflows** and Jenkins 
-  shared libraries, optimizing CI/CD automation and standardizing pipeline processes across teams
+-  Developed and Contributed to the organization's shared library by implementing below methods,optimizing CI/CD automation
+  - Reusable GitHub Composite Actions.
+  - Reusable GitHub Workflows.
+  - Jenkins Shared Libraries.
+  - Python Reusable Libraries.
 - Designed and implemented **agnostic**, script-driven CI/CD workflows to enhance scalability, flexibility, and 
   maintainability across Jenkins, GitHub Actions, minimizing migration efforts and operational overhead
 - Designed and implemented **Sophisticated CI/CD** pipelines leveraging both **GitHub Actions** and **Jenkins**, integrated with **Python** automation.
