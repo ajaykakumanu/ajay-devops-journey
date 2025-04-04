@@ -71,12 +71,13 @@
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
-- Skilled in deploying **Infrastructure as Code (IaC)** solutions using **Terraform** and **Terragrunt**, with a focus on precise version management for Terraform modules within a mono-repo.
+- Skilled in deploying **Infrastructure as Code (IaC)** solutions using **Terraform** and [**Terragrunt**](https://terragrunt.gruntwork.io/), with a focus on precise version management for Terraform modules within a mono-repo.
   - Based on **DRY** DRY(donot repeat the your self) created Terrafom modules with combination of Terragrunt.
-  - Implement Terraform dependency management.
+  - Implemented Terraform dependency management.
 - **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led decommissioning efforts to optimize resources and reduce costs.
   - Implemented Decommission pipelines which saves cost of Azure resources.
-  - Add Dry-run option to the pipelines.
+  - Added Dry-run option to the pipelines.
+  - Added Over-ride params,more flexibility
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
 - Implemented Security and **secrets management** for Jenkins CI/CD and Git Hub Actions work flows.
