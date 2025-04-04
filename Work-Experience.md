@@ -79,7 +79,7 @@
   - Add Dry-run option to the pipelines.
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
-- Implemented Security and secrets management for Jenkins and Git Hub Actions.
+- Implemented Security and **secrets management** for Jenkins CI/CD and Git Hub Actions work flows.
   - Jenkins Pipelines
     - Use Credential plugins
     - Use AKV
