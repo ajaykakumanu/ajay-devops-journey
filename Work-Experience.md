@@ -79,6 +79,21 @@
   - Add Dry-run option to the pipelines.
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
+- Implemented Security and secrets management for Jenkins and Git Hub Actions.
+  - Jenkins Pipelines
+    - Use Credential plugins
+    - Use AKV
+    - Folder Level Secrets
+    - Global Level secrets
+    - Use RBAC plugins
+  - Git Hub Actions
+    - Using self-hosted runners based on Type of Env
+    - Repo Level secrets
+    - Organization Level secrets
+    - Environment Level
+    - Use Git hub environments
+    - Use Git hub App
+    - Use branch protection and repo rules
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
   - Researched on DevOps tools like OpenTelementry , Jabera ..
 - **Modernized** existing products through automation and containers (**SaaS transformation**).
