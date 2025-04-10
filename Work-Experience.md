@@ -79,7 +79,7 @@
   - Firewall, Network issues
   - External API issues
      - Timeout issues
-     - 4XX issues
+     - 4XX issues (Token/SPN Expiration)
      - 5xxx issues(re-try)
      - API rate issues
      - API change.
