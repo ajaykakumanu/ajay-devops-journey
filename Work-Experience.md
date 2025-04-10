@@ -12,6 +12,9 @@
   - Principle of least privilege.
   - Leverage build cache
   - Reduce the size of final image using multi-stage builds.
+  - docker system prune to remove all dangling data (un-unsed Images).
+  - use Semantic versioning for image tagging for roll back friendly deployments.
+  - --no-cache builds for consistent and reliable image builds
   - <https://docs.google.com/presentation/d/15zxrsnx6XyJgjW4vwBWGRXxnbRVXt-xt/edit#slide=id.p1>
 - Implemented comprehensive **Helm** charts including Pods, Deployments, Services, Ingress, and deployed applications into 
    the **AKS** cluster.
