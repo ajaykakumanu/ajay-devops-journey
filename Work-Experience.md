@@ -74,7 +74,7 @@
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
-- Implemented multiple strategies to address flaky CI/CD builds.
+- Implemented multiple strategies to address [**Flaky CI/CD builds**](https://docs.google.com/document/d/1eHpkg9evS8eRbtHxRXyRa_w1ODs_3MCG/edit?usp=drive_link&ouid=113894783804149609129&rtpof=true&sd=true).
   - Inconsistent Environments (dev, pre-prod,prod)
   - Firewall, Network issues
   - External API issues
