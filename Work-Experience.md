@@ -85,10 +85,11 @@
      - API change.
   - Agents might down
   - resource Limitations
-    - IP Address not avialble.
+    - IP Address not avialble
+    - Subnent is full
     - Memory space
   - race conditions in pipelines
-    - use Ansible play book instead of Azure remote commands when share the same VM
+    - use Ansible play-book instead of Azure remote commands when share the same VM
 - Skilled in deploying **Infrastructure as Code (IaC)** solutions using **Terraform** and [**Terragrunt**](https://terragrunt.gruntwork.io/), with a focus on precise version management for Terraform modules within a mono-repo.
   - Based on **DRY** DRY(donot repeat the your self) created Terrafom modules with combination of Terragrunt.
   - Implemented Terraform dependency management.
