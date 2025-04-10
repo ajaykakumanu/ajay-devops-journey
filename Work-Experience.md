@@ -74,6 +74,20 @@
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
+- Implemented multiple strategies to address flaky CI/CD builds.
+  - Inconsistent Environments (dev, pre-prod,prod)
+  - Firewall, Network issues
+  - External API issues
+     - Timeout issues
+     - 4XX issues
+     - 5xxx issues(re-try)
+     - API rate issues
+     - API change.
+  - Agents might down
+  - resource Limitations
+    - IP Address not avialble.
+    - Memory space
+  - race conditions in pipelines
 - Skilled in deploying **Infrastructure as Code (IaC)** solutions using **Terraform** and [**Terragrunt**](https://terragrunt.gruntwork.io/), with a focus on precise version management for Terraform modules within a mono-repo.
   - Based on **DRY** DRY(donot repeat the your self) created Terrafom modules with combination of Terragrunt.
   - Implemented Terraform dependency management.
