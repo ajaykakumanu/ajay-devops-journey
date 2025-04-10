@@ -102,6 +102,8 @@
   - Collaborated with various cross functional teams like DB team, network Team and Developer Team and onboard Teams
 - Implemented proactive Quality checks on customer environments using the Chef Inspec framework.
 - Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
+- Acted as a **code owner** (via .ownersfile) for shared repositories, consistently reviewing and merging PRs, enforcing coding standards and security policies, maintaining project documentation, and integrating automated 
+  CI checks using GitHub Actions and SonarQube to uphold repository hygiene and boost developer productivity.
 - Reduced manual efforts by automating **system tasks, builds, and deployments** using **Python** scripts integrated with **Jenkins** and **GitHub Actions**.
 - **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
