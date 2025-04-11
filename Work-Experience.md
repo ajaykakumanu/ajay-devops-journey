@@ -151,6 +151,9 @@
   - Distributed Builds
 - Designed and delivered "single-click" deployment solutions (canary).
 - Modernized ,Automated legacy build processes, transitioning from Make to Maven, streamlining the builds.
+  - Improved scalability/maintainability of codebase and easier debugging.
+  - Handle native C components dll/.so files, 
+  - Make it to CI/CD friendly builds.
 - Contributed to Developing/fixing issues in Load Balancing, Service discovery and Directory services.
 - Installed and configured the Linux servers with build specifications using Configuration Management tools.
 - Designed and Developed Automation Regression Test Framework( Performance Optimization ).
