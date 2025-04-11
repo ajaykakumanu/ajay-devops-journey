@@ -61,7 +61,7 @@
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
   - Jenkins Hudson library and Maven
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
-  - Designed and implemented JSL using Object-Oriented Programming (**OOPS**) concepts and Software Design Patterns, adhering to 
+- Designed and implemented JSL using Object-Oriented Programming (**OOPS**) concepts and Software Design Patterns, adhering to 
     **SOLID** principles for maintainability and scalability.
     - Function Over loading for back ward compatibility
     - Single responsibility to reduce load time JSL
