@@ -149,14 +149,13 @@
   - Dependency Analysis
   - Parallel Compilation
   - Distributed Builds
-- Designed and delivered "single-click" deployment solutions (canary).
-- Modernized ,Automated legacy build processes, transitioning from Make to Maven, streamlining the builds.
+- Modernized ,Automated **legacy build processes**(Java with Make files), transitioning from Make to Maven, streamlining the builds.
   - Improved scalability/maintainability of codebase and easier debugging.
   - Handle native C components dll/.so files, 
   - Make it to CI/CD friendly builds.
 - Contributed to Developing/fixing issues in Load Balancing, Service discovery and Directory services.
 - Installed and configured the Linux servers with build specifications using Configuration Management tools.
-- Designed and Developed Automation Regression Test Framework( Performance Optimization ).
+- Designed and Developed Automation Regression Test Framework using JUNIT( Performance Optimization ).
 - Deployed Microservices on GCP Kubernetes, ensuring scalability and reliability in high-scale systems.
 - Implemented self-healing techniques and fault-tolerance services.
 - Proficiently led Root cause analysis(RCA) for incidents through the utilization of incident post-mortems to accurately 
