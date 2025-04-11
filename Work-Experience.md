@@ -59,9 +59,13 @@
     - Caching (Implement caching mechanisms to reuse dependencies and artifacts between builds)
     - Incremental Builds (Configure the pipeline to only build and test changed components rather than the entire project)
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
+  - Jenkins Hudson library and Maven
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
   - Designed and implemented JSL using Object-Oriented Programming (**OOPS**) concepts and Software Design Patterns, adhering to 
     **SOLID** principles for maintainability and scalability.
+    - Function Over loading for back ward compatibility
+    - Single responsibility to reduce load time JSL
+    - Dependency Inversion for loosely coupled 
 - Developed and Contributed to the organization's shared library by implementing below methods,optimizing CI/CD automation
   - Reusable GitHub Composite Actions.
   - Reusable GitHub Workflows.
