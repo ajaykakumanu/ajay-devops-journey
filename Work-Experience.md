@@ -76,6 +76,7 @@
 - Designed and implemented **Sophisticated CI/CD** pipelines leveraging both **GitHub Actions** and **Jenkins**, integrated with **Python** automation.
   - Developed a pipeline to automatically update expired secrets across all environments 2000+, ensuring secure and efficient key rotation.
   - Used the Dynamic matrix stregy. Matrix is created and shared between work flows.
+  - Cron,workflow_dispatch
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
@@ -111,13 +112,13 @@
     - Folder Level Secrets
     - Global Level secrets
     - Use RBAC plugins
-  - Git Hub Actions
+  - GitHub Actions
     - Using self-hosted runners based on Type of Env
     - Repo Level secrets
     - Organization Level secrets
     - Environment Level
-    - Use Git hub environments
-    - Use Git hub App
+    - Use Github environments
+    - Use Github App
     - Use branch protection and repo rules
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
   - Researched on DevOps tools like OpenTelementry , Jabera ..
