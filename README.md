@@ -49,4 +49,6 @@
 
 [**Detailed Work Experience**](Work-Experience.md)
 
+[**Tool-Stack**](tool-stack.md)
+
 Please reach me <https://www.linkedin.com/in/ajaykakumanu/>
