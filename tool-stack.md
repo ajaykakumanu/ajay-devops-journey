@@ -4,10 +4,10 @@
 Jenkins, Git Hub Actions, Docker, Kubernetes, Helm, Terraform, Packer, JFrog, Ansible, Service Mesh, Puppet
 
 ## DevSecOps Tools
-SAST - SonarQube, CheckMarx, CodeQL
-DAST - OWASP ZAP, 
-Container security - Aqua
-SCA - Blackduck
+- SAST - SonarQube, CheckMarx, CodeQL
+- DAST - OWASP ZAP, 
+- Container security - Aqua
+- SCA - Blackduck
 
 ## Programming Languages
 Python, Groovy, Java, C, C++, C#
