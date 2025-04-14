@@ -4,6 +4,7 @@
 - Always **Automation** mind set.
 - Early Feedback, Alerting
 - Keep in mind, your pipelines **may not run by experts**, provide enough documentation.
+- Platform & Tooling **Agnostic**ism
 
 ## DevOps and CI/CD experience
 
