@@ -44,7 +44,7 @@ Jira, Aha, Confluence,
 Oracle, MySQL, SQL, Liquibase, DynamoDB
 
 ## Formats 
-YAML, JSON (Jsonet)
+YAML, JSON (jsonnet)
 
 ## Script languages 
 PowerShell, Shell, Bash JavaScript, jQuery
