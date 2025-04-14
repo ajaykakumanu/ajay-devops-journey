@@ -75,6 +75,7 @@
   maintainability across Jenkins, GitHub Actions, minimizing migration efforts and operational overhead
 - Designed and implemented **Sophisticated CI/CD** pipelines leveraging both **GitHub Actions** and **Jenkins**, integrated with **Python** automation.
   - Developed a pipeline to automatically update expired secrets across all environments 2000+, ensuring secure and efficient key rotation.
+  - Used the Dynamic matrix stregy. Matrix is created and shared between work flows.
 - Subject Matter Expert (**SME**) in resolving technical **challenges** within CI/CD pipeline development.
   - As a senior number take the responsible of [**Technical challenges**](Technical_Challenges_in_Developing_Jenkins_CICDPipelines.md)
   - CPS issues resolved
