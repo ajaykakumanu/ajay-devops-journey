@@ -39,6 +39,7 @@
 
 - Implemented Automated PSR Test Runs Tool and Saved ~$200,000/year.
 - Implemented Automated In-spec Test tool using creative **CI/CD pipelines** and saved ~$60,000/year.
+- Boosted customer deployments by 30% through concurrent, parallel, and scalable deployment strategies.
 - Reduced manual efforts by 70% through **Automating notification** processes for pipeline failures via seamless integration 
   of Jenkins, Python, **OpenTelemetry, Jaeger**, and Opsgenie tools
 - Successfully reduced deployment time by strategically enhancing **parallelism** within Jenkins pipelines, resulting in a 
