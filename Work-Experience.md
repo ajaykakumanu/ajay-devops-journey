@@ -140,11 +140,6 @@
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
 - Provided on-call SRE support, promptly resolving critical issues and ensuring system stability.
-- Utilized **AI tools** like GitHub Copilot and Dependabot to accelerate delivery and dependency management.
-  - Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
-    and improving documentation.
-  - Implemented GitHub Copilot for pull request (PR) reviews to enhance code quality.
-  - Used Dependabot to identify the latest versions of dependencies, apply patches, and mitigate security vulnerabilities.
 - Explored **MLOps concepts** (AI and Machine Learning Operations).
 
 ## Builds and Automation experience
@@ -207,7 +202,8 @@
 
 ## AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
-- Researched and engineered effective prompts for AI tools (e.g. GitHub Copilot, ChatGPT)
+- Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
+  and improving documentation.
 - Used **GitHub Copilot** to assist with:
   - Pull Request (PR) Reviews
   - Generate Documentation
