@@ -204,3 +204,16 @@
   metrics.
 - Integrated Splunk for centralized log aggregation and monitoring, enhancing observability of application metrics, error 
   rates, and user transactions.
+
+## AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
+- Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
+- Researched and engineered effective prompts for AI tools (e.g. GitHub Copilot, ChatGPT)
+- Used **GitHub Copilot** to assist with:
+  - Pull Request (PR) Reviews
+  - Generate Documentation
+  - Code Refactoring
+  - Code Formatting
+  - Test Case Generation
+- Integrated **Dependabot** to manage dependencies proactively:
+  - Performed **automated version upgrades**.
+  - Mitigated known vulnerabilities and kept libraries up to date.
