@@ -71,7 +71,7 @@
     - Single responsibility to reduce load time JSL
     - Dependency Inversion for loosely coupled 
 - Developed and Contributed to the organization's shared library by implementing below methods,optimizing CI/CD automation
-  - Reusable GitHub Composite Actions.
+  - **Reusable** GitHub Composite Actions.
   - Reusable GitHub Workflows.
   - Jenkins Shared Libraries.
   - Python Reusable Libraries.
@@ -96,7 +96,7 @@
   - Agents might down
   - resource Limitations
     - IP Address not avialble
-    - Subnent is full
+    - Subnet is full
     - Memory space
   - race conditions in pipelines
     - use Ansible play-book instead of Azure remote commands when share the same VM
