@@ -177,6 +177,7 @@
 
 ## Cloud Experience
 
+- Implemented [**AWS Well-Architected Framework principles**](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) across multiple environments, improving system reliability, performance efficiency, and operational excellence
 - Orchestrated Subscription-Based Multi-Tenant Products on Diverse Public Cloud Service Providers.
 - Designed and Developed Enhancements of CSG using AWS APIS.
 - Enhanced the existing product with features like User roles (Lead, System Administration, Developer), ELB, Autoscaling, 
