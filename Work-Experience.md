@@ -109,7 +109,7 @@
   - Added Over-ride params,more flexibility
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
-- Implemented Security and **secrets management** for Jenkins CI/CD and Git Hub Actions work flows.
+- Implemented Security and **secrets management** for Jenkins CI/CD and GitHub Actions work flows.
   - Jenkins Pipelines
     - Use Credential plugins
     - Use AKV
