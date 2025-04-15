@@ -5,7 +5,9 @@
 - Early Feedback, Alerting
 - Keep in mind, your pipelines **may not run by experts**, provide enough documentation.
 - Platform & Tooling **Agnostic**ism
-
+- Be Proactive, Not Reactive
+- Embrace **Continuous Learning**
+  
 ## DevOps and CI/CD experience
 
 - Created **Docker** images for WMS/WLM applications with best practices.
