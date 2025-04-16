@@ -228,7 +228,11 @@
 
 ## 🎨🛠️ Design & Developer Experience
 
-- Solid foundation in **Object-Oriented Programming (OOP)** — clean code, modular design, and maintainable components.
+- Implemented **Object-Oriented Programming (OOP)** principles across multiple languages — **Java**, **Groovy**, and **Python** — to write clean, modular, and maintainable components.
+  - Compile-time polymorphism
+  - Run-time Polymorphism
+  - Abstraction
+  - Encapsulation
 - Applied key **Design Patterns** in real-world projects, including:
   - Singleton, Factory, Observer, Adapter, Strategy
 - Advocate for **SOLID Principles** to promote scalable, testable, and robust architecture:
@@ -236,8 +240,10 @@
   - **O**pen/Closed  
   - **L**iskov Substitution  
   - **I**nterface Segregation  
-  - **D**ependency Inversion
+  - **D**ependency Inversion for Loosely coupoled components
 - Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
+  - pytest
+  - JUnit
 - Built developer-first internal tools with reusability, extensibility, and clear documentation in mind.
 
 ## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
