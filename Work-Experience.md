@@ -127,15 +127,12 @@
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
   - Researched on DevOps tools like OpenTelementry , Jabera ..
 - **Modernized** existing products through automation and containers (**SaaS transformation**).
-- Collaborated with **cross-functional teams** to identify and triage issues, ensuring timely problem resolution.
-  - Collaborated with various cross functional teams like DB team, network Team and Developer Team and onboard Teams
 - Implemented proactive Quality checks on customer environments using the Chef Inspec framework.
 - Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
 - Acted as a **code owner** (via .CODEOWNERS) for shared repositories, consistently reviewing and merging PRs, enforcing coding standards and security policies, maintaining project documentation, and integrating automated 
   CI checks using GitHub Actions and SonarQube to uphold repository hygiene and boost developer productivity.
 - Reduced manual efforts by automating **system tasks, builds, and deployments** using **Python** scripts integrated with **Jenkins** and **GitHub Actions**.
 - **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
-- **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
 - Implemented [**Liquibase**](https://tinyurl.com/bdcs6mb2) for automated database schema versioning and integrated it with Jenkins CI/CD pipelines to 
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
@@ -179,15 +176,15 @@
 
 - Implemented [**AWS Well-Architected Framework principles**](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) across multiple environments, improving system reliability, performance efficiency, and operational excellence
 - Implemented various [**Cloud Design Patterns**](https://docs.google.com/document/d/1_QiESe2YJEmPy8qV-jd6Qx4cSImtFrn4/edit?usp=drive_link&ouid=113894783804149609129&rtpof=true&sd=true)
-  - Patterns for High Availability(replication,snapshot, multi az)
-  - Patterns for Processing Dynamic Content (ELB, Auto Scaling)
-  - Patterns for Processing Static Content (Cloud Front)
-  - Patterns for Uploading/Moving Data (S3)
-  - Patterns for Relational Databases( Read Replicas, Multi Az)
-  - Patterns for Batch Processing (SQS)
-  - Patterns for Network (Jump server,Private,public subnets)
-  - Patterns for Security
-  - Patterns for Cost Optimisation
+  - High Availability(replication,snapshot, multi az)
+  - Processing Dynamic Content (ELB, Auto Scaling)
+  - Processing Static Content (Cloud Front)
+  - Uploading/Moving Data (S3)
+  - Relational Databases( Read Replicas, Multi Az)
+  - Batch Processing (SQS)
+  - Network (Jump server,Private,public subnets)
+  - Security
+  - Cost Optimisation
 - Orchestrated Subscription-Based Multi-Tenant Products on Diverse Public Cloud Service Providers.
 - Designed and Developed Enhancements of CSG using AWS APIS.
 - Enhanced the existing product with features like User roles (Lead, System Administration, Developer), ELB, Autoscaling, 
@@ -196,8 +193,6 @@
 - Played a pivotal role in cloud security, VPC, VPN, IAM management, networking protocols and cost optimization.
 - Developed AWS CloudFormation templates for VPC and subnets, streamlining infrastructure provisioning.
 - Migrated on-premises production applications to the hybrid AWS environment, aligning with strategic goals.
-- Led and inspired the team through coaching, mentorship, and ramping up, demonstrating strong leadership, teamwork, and 
-  analytical skills with a touch of humor.
 - Worked with various SaaS(Software as a Service), IaaS and PaaS.
 - Involved in Disaster Recovery and fail-over strategies, minimizing downtime and ensuring business continuity.
 
@@ -210,6 +205,18 @@
   metrics.
 - Integrated Splunk for centralized log aggregation and monitoring, enhancing observability of application metrics, error 
   rates, and user transactions.
+
+
+## 🤝 Leadership & Collaboration
+
+- **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
+- Collaborated with **cross-functional teams** to identify and triage issues, ensuring timely problem resolution.
+  - Collaborated with various cross functional teams like DB team, network Team and Developer Team and onboard Teams
+- Actively helps ramp up the team during the hiring process by sharing context, **onboarding**, and **training support**.
+- Helps teammates see how their work fits into the bigger picture.
+- Tracks personal work progress and checks it against what was planned.
+- Led and inspired the team through coaching, mentorship, and analytical skills with a touch of humor.
+- Uses product knowledge to spot risks early and keep things moving in the right direction.
 
 ## AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
