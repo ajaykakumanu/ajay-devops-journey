@@ -137,8 +137,7 @@
 - Implemented [**Liquibase**](https://tinyurl.com/bdcs6mb2) for automated database schema versioning and integrated it with Jenkins CI/CD pipelines to 
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
-- Provided on-call SRE support, promptly resolving critical issues and ensuring system stability.
-- Explored **MLOps concepts** (AI and Machine Learning Operations).
+
 
 ## Builds and Automation experience
 
@@ -244,3 +243,4 @@
 - Integrated **Dependabot** to manage dependencies proactively:
   - Performed **automated version upgrades**.
   - Mitigated known vulnerabilities and kept libraries up to date.
+- Explored **MLOps concepts** (AI and Machine Learning Operations).
