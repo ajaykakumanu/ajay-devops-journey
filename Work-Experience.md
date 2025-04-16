@@ -208,6 +208,18 @@
   rates, and user transactions.
 
 
+## 🔧 On-Call SRE Support & Incident Management
+
+- Provided on-call SRE support to promptly resolve critical production issues and reduce downtime.
+  -  USE method to detect potential issues before they impact users, improving system
+- Led and coordinated **bridge calls** during high-severity incidents to ensure fast recovery and clear communication.
+- Documented incident handling processes, troubleshooting steps, and recovery actions for future reference.
+- Created and shared detailed **postmortem reports**, capturing root cause, impact, timeline, and actionable follow-ups.
+- Implemented proactive monitoring and alerting to catch issues early and reduce alert fatigue.
+- Worked cross-functionally with DB Team, infra, Network teams to triage the issue.
+- Contributed to incident **runbooks** and knowledge base articles to support future **on-call rotations**.
+
+
 ## 🤝 Leadership & Collaboration
 
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
