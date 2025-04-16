@@ -1,4 +1,7 @@
-🎯 **Ajay Kakumanu** — Building the Future of DevOps
+### 🎯 **Ajay Kakumanu**  
+#### *Building the Future of DevOps*  
+**🌐 DevOps • CI/CD Specialist • Build & Release Engineer**  
+**🚀 Empowering Developers with Scalable & Automated Solutions**
 
 &nbsp;
 
