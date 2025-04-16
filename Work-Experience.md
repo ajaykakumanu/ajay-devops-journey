@@ -226,6 +226,20 @@
 - Led and inspired the team through coaching, mentorship, and analytical skills with a touch of humor.
 - Uses product knowledge to spot risks early and keep things moving in the right direction.
 
+## 🎨🛠️ Design & Developer Experience
+
+- Solid foundation in **Object-Oriented Programming (OOP)** — clean code, modular design, and maintainable components.
+- Applied key **Design Patterns** in real-world projects, including:
+  - Singleton, Factory, Observer, Adapter, Strategy
+- Advocate for **SOLID Principles** to promote scalable, testable, and robust architecture:
+  - **S**ingle Responsibility  
+  - **O**pen/Closed  
+  - **L**iskov Substitution  
+  - **I**nterface Segregation  
+  - **D**ependency Inversion
+- Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
+- Built developer-first internal tools with reusability, extensibility, and clear documentation in mind.
+
 ## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
