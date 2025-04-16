@@ -1,8 +1,8 @@
-**AJAY KAKUMANU**
+🧑‍💻 **AJAY KAKUMANU**
 
 &nbsp;
 
-**SUMMARY**
+🧾 **SUMMARY**
 - Seasoned Software Engineer with over 15+ years of industry experience in **Software development** and **DevOps/**SRE practices. Equipped with a proven track record of building robust software solutions and optimizing development workflows.
 - 9+ years of experience in multi-cloud computing platforms (AWS, Azure, GCP) and **modernizing**, **automating** legacy applications, and implementing **DevOps**/SRE **practices**.
 - Hands-on experience with **Containerization** technologies (Docker, Kubernetes).
@@ -27,7 +27,7 @@
 - Good team player and proficient in Customer interactions with good oral and communication skills.
 - **Led onshore and offshore** service delivery functions with a proactive approach to ensure end-to-end ownership of **incidents** and **service requests**. 
 
-**Certifications**
+🎓 **Certifications**
 
 - [**Python** **Programming** Certified by Cornell University](https://mycredentials.ecornell.cornell.edu/credential/PNwwhBlXsp)
 - [Microsoft Certified Azure Developer certification](https://drive.google.com/file/d/1L8wKdzU5eXULFtta9qvF70Bw1OYbAxoB/view?usp=drive_link)
@@ -35,7 +35,7 @@
 - AWS Certified Sys-Ops Administrator & Developer Associate Level.
 - [AWS Certified Solutions Architect-Professional Level](https://drive.google.com/file/d/1ZRU_27O6pwc5ZaWLAaYSxjvUIASUULz3/view?usp=drive_link) 
 
-**Accomplishments**
+🏆 **Accomplishments**
 
 - Implemented Automated PSR Test Runs Tool and Saved ~$200,000/year.
 - Implemented Automated In-spec Test tool using creative **CI/CD pipelines** and saved ~$60,000/year.
@@ -48,8 +48,11 @@
 - Established **proactive monitoring practices** using the **USE** method to detect potential issues before they impact 
   users, improving system reliability and reducing unplanned outages by 25%.
 
-[**Detailed Work Experience**](Work-Experience.md)
+💼 [**Detailed Work Experience**](Work-Experience.md)
 
-[**Tool-Stack**](tool-stack.md)
+🧰 [**Tool-Stack**](tool-stack.md)
 
-Please reach me <https://www.linkedin.com/in/ajaykakumanu/>
+### 📬 Connect With Me  
+Feel free to reach out or connect:  
+[**LinkedIn – Ajay Kakumanu**](https://www.linkedin.com/in/ajaykakumanu/)
+
