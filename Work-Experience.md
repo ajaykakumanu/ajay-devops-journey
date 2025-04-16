@@ -7,6 +7,7 @@
 - Platform & Tooling **Agnostic**ism
 - Be Proactive, Not Reactive
 - Embrace **Continuous Learning**
+- Ready to adapt or change
   
 ## DevOps and CI/CD experience
 
