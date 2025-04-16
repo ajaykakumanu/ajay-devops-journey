@@ -226,7 +226,7 @@
 - Led and inspired the team through coaching, mentorship, and analytical skills with a touch of humor.
 - Uses product knowledge to spot risks early and keep things moving in the right direction.
 
-## AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
+## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
 - Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
