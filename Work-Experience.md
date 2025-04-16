@@ -175,23 +175,23 @@
 - Implemented [**AWS Well-Architected Framework principles**](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) across multiple environments, improving system reliability, performance efficiency, and operational excellence
 - Implemented various [**Cloud Design Patterns**](https://docs.google.com/document/d/1_QiESe2YJEmPy8qV-jd6Qx4cSImtFrn4/edit?usp=drive_link&ouid=113894783804149609129&rtpof=true&sd=true)
   - High Availability(replication,snapshot, multi az)
-  - Processing Dynamic Content (ELB, Auto Scaling)
-  - Processing Static Content (Cloud Front)
-  - Uploading/Moving Data (S3)
-  - Relational Databases( Read Replicas, Multi Az)
-  - Batch Processing (SQS)
-  - Network (Jump server,Private,public subnets)
+  - Processing Dynamic Content ( ELB, Auto Scaling )
+  - Processing Static Content ( Cloud Front )
+  - Uploading/Moving Data ( S3 )
+  - Relational Databases( Read Replicas, Multi Az )
+  - Batch Processing ( SQS )
+  - Network ( Jump server, Private, public subnets )
   - Security
   - Cost Optimisation
 - Orchestrated Subscription-Based Multi-Tenant Products on Diverse Public Cloud Service Providers.
 - Designed and Developed Enhancements of CSG using AWS APIS.
-- Enhanced the existing product with features like User roles (Lead, System Administration, Developer), ELB, Autoscaling, 
+- Enhanced the existing product with features like User roles ( Lead, System Administration, Developer ), ELB, Autoscaling, 
   SES, SQS, and RDS scheduling, S3 backup policies improving overall system resiliency at scale.
 - Created monitors, alarms, and notifications for EC2 hosts using Cloud Watch, Cloud Trail, and SNS.
 - Played a pivotal role in cloud security, VPC, VPN, IAM management, networking protocols and cost optimization.
 - Developed AWS CloudFormation templates for VPC and subnets, streamlining infrastructure provisioning.
 - Migrated on-premises production applications to the hybrid AWS environment, aligning with strategic goals.
-- Worked with various SaaS(Software as a Service), IaaS and PaaS.
+- Worked with various SaaS( Software as a Service ), IaaS and PaaS.
 - Involved in Disaster Recovery and fail-over strategies, minimizing downtime and ensuring business continuity.
 
 ## 🔭 Observability and Monitoring 
@@ -234,9 +234,9 @@
   - Abstraction
   - Encapsulation
 - Applied key **Design Patterns** in real-world projects, including:
-  - Creational (Singleton, Factory)
+  - Creational ( Singleton, Factory )
   - Structural (Builder, Adapter)
-  - Behavioral (Observer,Chain of Responsibility)
+  - Behavioral ( Observer, Chain of Responsibility )
 - Advocate for **SOLID Principles** to promote scalable, testable, and robust architecture:
   - **S**ingle Responsibility --> Reduce JSL load time
   - **O**pen/Closed  --> seamless addition of features
@@ -248,10 +248,10 @@
   - dependency isolation using Python requirements.txt
   - logs as event streams using Opentelemetry, Splunk ..etc
 - Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
-  - pytest(Fixtures, Parametrized Tests, pytest-xdist for parallel)
+  - pytest ( Fixtures, Parametrized Tests, pytest-xdist for parallel )
   - JUnit
   - Mocking
-  - Test coverage (Coverage.py, JaCoCo, SonarQube)
+  - Test coverage ( Coverage.py, JaCoCo, SonarQube )
   - jenkinspipelineTest
 - Built developer-first internal tools with reusability, extensibility, and clear documentation in mind.
 
