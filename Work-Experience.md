@@ -178,6 +178,16 @@
 ## Cloud Experience
 
 - Implemented [**AWS Well-Architected Framework principles**](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) across multiple environments, improving system reliability, performance efficiency, and operational excellence
+- Implemented various [**Cloud Design Patterns**](https://docs.google.com/document/d/1_QiESe2YJEmPy8qV-jd6Qx4cSImtFrn4/edit?usp=drive_link&ouid=113894783804149609129&rtpof=true&sd=true)
+  - Patterns for High Availability(replication,snapshot, multi az)
+  - Patterns for Processing Dynamic Content (ELB, Auto Scaling)
+  - Patterns for Processing Static Content (Cloud Front)
+  - Patterns for Uploading/Moving Data (S3)
+  - Patterns for Relational Databases( Read Replicas, Multi Az)
+  - Patterns for Batch Processing (SQS)
+  - Patterns for Network (Jump server,Private,public subnets)
+  - Patterns for Security
+  - Patterns for Cost Optimisation
 - Orchestrated Subscription-Based Multi-Tenant Products on Diverse Public Cloud Service Providers.
 - Designed and Developed Enhancements of CSG using AWS APIS.
 - Enhanced the existing product with features like User roles (Lead, System Administration, Developer), ELB, Autoscaling, 
