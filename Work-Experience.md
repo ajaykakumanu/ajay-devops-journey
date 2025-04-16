@@ -1,4 +1,4 @@
-## DevOps philosophy 
+## 🌱 DevOps philosophy 
 
 - How to **support developers**, to increase their productivity , by focusing only their tasks.
 - How to **support to Organization**, to deliver the new features with out effecting existing features.
@@ -10,7 +10,7 @@
 - Embrace **Continuous Learning**
 - Ready to adapt or change
   
-## DevOps and CI/CD experience
+## 🔁 DevOps and CI/CD experience
 
 - Created **Docker** images for WMS/WLM applications with best practices.
   - Select the appropriate base image
@@ -139,7 +139,7 @@
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
 
-## Builds and Automation experience
+## ⚒️ Builds and Automation experience
 
 - "**Automation Mindset: Why Not Automate**?"
   - Proactively identify and eliminate manual tasks by implementing automation solutions for AppDynamics and Splunk 
@@ -170,7 +170,7 @@
 - Demonstrated adaptability and flexibility in approaching complex challenges in mobile app development.
 - Managed software dependency management system to ensure smooth and error-free builds and releases.
 
-## Cloud Experience
+## ☁️ Cloud Experience
 
 - Implemented [**AWS Well-Architected Framework principles**](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) across multiple environments, improving system reliability, performance efficiency, and operational excellence
 - Implemented various [**Cloud Design Patterns**](https://docs.google.com/document/d/1_QiESe2YJEmPy8qV-jd6Qx4cSImtFrn4/edit?usp=drive_link&ouid=113894783804149609129&rtpof=true&sd=true)
@@ -194,7 +194,7 @@
 - Worked with various SaaS(Software as a Service), IaaS and PaaS.
 - Involved in Disaster Recovery and fail-over strategies, minimizing downtime and ensuring business continuity.
 
-## Observability and Monitoring 
+## 🔭 Observability and Monitoring 
 
 - Integrating **OpenTelemetry** with Jenkins Pipelines, along with Elasticsearch and Jaeger, is an excellent approach for 
   distributed tracing, performance monitoring, and debugging latency issues.  
