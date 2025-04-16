@@ -1,4 +1,5 @@
 ## DevOps philosophy 
+
 - How to **support developers**, to increase their productivity , by focusing only their tasks.
 - How to **support to Organization**, to deliver the new features with out effecting existing features.
 - Always **Automation** mind set.
@@ -138,7 +139,6 @@
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
 
-
 ## Builds and Automation experience
 
 - "**Automation Mindset: Why Not Automate**?"
@@ -160,8 +160,6 @@
 - Designed and Developed Automation Regression Test Framework using JUNIT( Performance Optimization ).
 - Deployed Microservices on GCP Kubernetes, ensuring scalability and reliability in high-scale systems.
 - Implemented self-healing techniques and fault-tolerance services.
-- Proficiently led Root cause analysis(RCA) for incidents through the utilization of incident post-mortems to accurately 
-  diagnose and resolve issues.
 - Extensive experience with distributed build systems and build automation tools like Make and CMake, ensuring efficient 
   development processes and orchestration.
 - Expert in memory layout optimization and proficient in implementing robust memory management techniques to prevent memory 
@@ -206,7 +204,6 @@
 - Integrated Splunk for centralized log aggregation and monitoring, enhancing observability of application metrics, error 
   rates, and user transactions.
 
-
 ## 🔧 On-Call SRE Support & Incident Management
 
 - Provided on-call SRE support to promptly resolve critical production issues and reduce downtime.
@@ -217,7 +214,6 @@
 - Implemented proactive monitoring and alerting to catch issues early and reduce alert fatigue.
 - Worked cross-functionally with DB Team, infra, Network teams to triage the issue.
 - Contributed to incident **runbooks** and knowledge base articles to support future **on-call rotations**.
-
 
 ## 🤝 Leadership & Collaboration
 
@@ -231,6 +227,7 @@
 - Uses product knowledge to spot risks early and keep things moving in the right direction.
 
 ## AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
+
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
 - Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
   and improving documentation.
