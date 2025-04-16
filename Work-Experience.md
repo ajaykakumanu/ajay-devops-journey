@@ -234,16 +234,25 @@
   - Abstraction
   - Encapsulation
 - Applied key **Design Patterns** in real-world projects, including:
-  - Singleton, Factory, Observer, Adapter
+  - Creational (Singleton, Factory)
+  - Structural (Builder, Adapter)
+  - Behavioral (Observer,Chain of Responsibility)
 - Advocate for **SOLID Principles** to promote scalable, testable, and robust architecture:
   - **S**ingle Responsibility --> Reduce JSL load time
-  - **O**pen/Closed  
+  - **O**pen/Closed  --> seamless addition of features
   - **L**iskov Substitution  
-  - **I**nterface Segregation  
-  - **D**ependency Inversion --> Loosely coupoled components
+  - **I**nterface Segregation  --> Created fine-grained interfaces, Jenkins Global Var
+  - **D**ependency Inversion --> Loosely coupled components
+- Applied Twelve-Factor App principles to streamline application delivery using JSL, Jenkins, and GitHub Actions
+  - separation App config using azure app config
+  - dependency isolation using Python requirements.txt
+  - logs as event streams using Opentelemetry, Splunk ..etc
 - Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
-  - pytest
+  - pytest(Fixtures, Parametrized Tests, pytest-xdist for parallel)
   - JUnit
+  - Mocking
+  - Test coverage (Coverage.py, JaCoCo, SonarQube)
+  - jenkinspipelineTest
 - Built developer-first internal tools with reusability, extensibility, and clear documentation in mind.
 
 ## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
