@@ -234,13 +234,13 @@
   - Abstraction
   - Encapsulation
 - Applied key **Design Patterns** in real-world projects, including:
-  - Singleton, Factory, Observer, Adapter, Strategy
+  - Singleton, Factory, Observer, Adapter
 - Advocate for **SOLID Principles** to promote scalable, testable, and robust architecture:
-  - **S**ingle Responsibility  
+  - **S**ingle Responsibility --> Reduce JSL load time
   - **O**pen/Closed  
   - **L**iskov Substitution  
   - **I**nterface Segregation  
-  - **D**ependency Inversion for Loosely coupoled components
+  - **D**ependency Inversion --> Loosely coupoled components
 - Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
   - pytest
   - JUnit
