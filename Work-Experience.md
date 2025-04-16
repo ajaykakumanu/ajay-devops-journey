@@ -213,7 +213,7 @@
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
 - Collaborated with **cross-functional teams** to identify and triage issues, ensuring timely problem resolution.
   - Collaborated with various cross functional teams like DB team, network Team and Developer Team and onboard Teams
-- Actively helps ramp up the team during the hiring process by sharing context, **onboarding**, and **training support**.
+- Actively helps ramp up the team during the **hiring process** by sharing context, **onboarding**, and **training support**.
 - Helps teammates see how their work fits into the bigger picture.
 - Tracks personal work progress and checks it against what was planned.
 - Led and inspired the team through coaching, mentorship, and analytical skills with a touch of humor.
