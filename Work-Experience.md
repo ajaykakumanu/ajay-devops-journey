@@ -131,6 +131,7 @@
     - Use branch protection and repo rules
 - Proficient in evaluating and selecting **DevOps tools** with a strong focus on **modernization** as a core mindset
   - Researched on DevOps tools like OpenTelementry , Jabera ..
+  - [steps to evalute a tool](tool-evaluation-checklist.md)
 - **Modernized** existing products through automation and containers (**SaaS transformation**).
 - Implemented proactive Quality checks on customer environments using the Chef Inspec framework.
 - Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
