@@ -25,8 +25,11 @@
 - Implemented comprehensive **Helm** charts including Pods, Deployments, Services, Ingress, and deployed applications into 
    the **AKS** cluster.
   - Created helm charts for Pods, deployments, services, Ingress
-  - Implement various Container Design patterns like Side car container, Init Container, Jobs, corn jobs.
-  - Liveness and Readiness probes are used to control the health of an application running inside Pods ‘container.
+  - Implement various Container Design patterns like
+      - Side car container
+      - Init Container
+      - Jobs, corn jobs
+  - Liveness and Readiness probes are used to control the health of an application running inside Pod's container.
   - Used ConfigMap and Secrets to store non-confidential data in Key value pair.
   - Implemented Kubernetes [**Security best practices**](Kubernetes_Best_Practices.md)
 - Implemented various types of **CI/CD pipeline patterns**
@@ -65,11 +68,11 @@
     - Caching (Implement caching mechanisms to reuse dependencies and artifacts between builds)
     - Incremental Builds (Configure the pipeline to only build and test changed components rather than the entire project)
 - Developed Jenkins **Custom** plug-ins (Build Failure Analysis plugin) and Jenkins Shared Libraries (JSL) strategies.
-  - Jenkins Hudson library and Maven
+  - Jenkins Hudson library with Maven
   - Implemented various [**JSL strategies**](Jenkins_Shared_Library_Designs.md).
 - Designed and implemented JSL using Object-Oriented Programming (**OOPS**) concepts and Software Design Patterns, adhering to 
     **SOLID** principles for maintainability and scalability.
-    - Function Over loading for back ward compatibility
+    - Function Over-loading for back ward compatibility
     - Single responsibility to reduce load time JSL
     - Dependency Inversion for loosely coupled 
 - Developed and Contributed to the organization's shared library by implementing below methods,optimizing CI/CD automation
@@ -105,7 +108,7 @@
 - Skilled in deploying **Infrastructure as Code (IaC)** solutions using **Terraform** and [**Terragrunt**](https://terragrunt.gruntwork.io/), with a focus on precise version management for Terraform modules within a mono-repo.
   - Based on **DRY** DRY(donot repeat the your self) created Terrafom modules with combination of Terragrunt.
   - Implemented Terraform dependency management.
-- **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led decommissioning efforts to optimize resources and reduce costs.
+- **Owned** and managed **CI/CD infrastructure** for seamless delivery of production and non-production environments. Led **decommissioning** efforts to optimize resources and reduce costs.
   - Implemented Decommission pipelines which saves cost of Azure resources.
   - Added Dry-run option to the pipelines.
   - Added Over-ride params,more flexibility
@@ -154,7 +157,7 @@
 - Modernized ,Automated **legacy build processes**(Java with Make files), transitioning from Make to Maven, streamlining the builds.
   - Improved scalability/maintainability of codebase and easier debugging.
   - Handle native C components dll/.so files, 
-  - Make it to CI/CD friendly builds.
+  - Make them to CI/CD friendly builds.
 - Contributed to Developing/fixing issues in Load Balancing, Service discovery and Directory services.
 - Installed and configured the Linux servers with build specifications using Configuration Management tools.
 - Designed and Developed Automation Regression Test Framework using JUNIT( Performance Optimization ).
@@ -212,7 +215,7 @@
 - Documented incident handling processes, troubleshooting steps, and recovery actions for future reference.
 - Created and shared detailed **postmortem reports**, capturing root cause, impact, timeline, and actionable follow-ups.
 - Implemented proactive monitoring and alerting to catch issues early and reduce alert fatigue.
-- Worked cross-functionally with DB Team, infra, Network teams to triage the issue.
+- Collaborated cross-functionally with DB Team, infra, Network teams to triage the issue.
 - Contributed to incident **runbooks** and knowledge base articles to support future **on-call rotations**.
 
 ## 🤝 Leadership & Collaboration
