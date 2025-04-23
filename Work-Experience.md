@@ -136,8 +136,13 @@
 - **Modernized** existing products through automation and containers (**SaaS transformation**).
 - Implemented proactive Quality checks on customer environments using the Chef Inspec framework.
 - Separation of environment config from code using Azure app config (**Twelve-factor** app principles).
-- Acted as a **code owner** (via .CODEOWNERS) for shared repositories, consistently reviewing and merging PRs, enforcing coding standards and security policies, maintaining project documentation, and integrating automated 
-  CI checks using GitHub Actions and SonarQube to uphold repository hygiene and boost developer productivity.
+- Acted as a **code owner** (via .CODEOWNERS) for shared repositories
+  - Created pull request templates.
+  - Add branch protection rules
+  - Enforcing coding standards and security policies
+  - Consistently reviewing and merging PRs
+  - Maintaining project documentation
+  - Integrating automated CI-checks using GitHub Actions and SonarQube
 - Reduced manual efforts by automating **system tasks, builds, and deployments** using **Python** scripts integrated with **Jenkins** and **GitHub Actions**.
 - **Proactively** engaged in the Code and PR reviews process, ensuring **coding standards** and **code quality.**
 - Implemented [**Liquibase**](https://tinyurl.com/bdcs6mb2) for automated database schema versioning and integrated it with Jenkins CI/CD pipelines to 
