@@ -247,10 +247,12 @@
   - **L**iskov Substitution  
   - **I**nterface Segregation  --> Created fine-grained interfaces, Jenkins Global Var
   - **D**ependency Inversion --> Loosely coupled components
-- Applied Twelve-Factor App principles to streamline application delivery using JSL, Jenkins, and GitHub Actions
-  - separation App config using azure app config
-  - dependency isolation using Python requirements.txt
+- Applied **Twelve-Factor App** principles to streamline application delivery using JSL, Jenkins, and GitHub Actions
+  - Code base ( Mono repo and Multi Repo )
+  - Separation App config using Azure app config
+  - Dependency isolation using Python requirements.txt, VPython
   - logs as event streams using Opentelemetry, Splunk ..etc
+  - Build, Release
 - Experience writing **unit tests and integration tests**, emphasizing TDD/BDD practices.
   - pytest ( Fixtures, Parametrized Tests, pytest-xdist for parallel )
   - JUnit
