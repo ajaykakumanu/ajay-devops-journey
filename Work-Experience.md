@@ -9,6 +9,7 @@
 - Be Proactive, Not Reactive
 - Embrace **Continuous Learning**
 - Ready to adapt or change
+- Grab the opportunity instead of waiting
   
 ## 🔁 DevOps and CI/CD experience
 
@@ -222,6 +223,9 @@
 ## 🤝 Leadership & Collaboration
 
 - **Mentored** and trained junior team members, fostering a culture of continuous learning and growth.
+  - Prepared onboarding material (Confluence pages,tools and requried software)
+  - Conducted hands-on workshops
+  - Assigned initial Jira tickets with low complexity   
 - Collaborated with **cross-functional teams** to identify and triage issues, ensuring timely problem resolution.
   - Collaborated with various cross functional teams like DB team, network Team and Developer Team and onboard Teams
 - Actively helps ramp up the team during the **hiring process** by sharing context, **onboarding**, and **training support**.
@@ -229,6 +233,10 @@
 - Tracks personal work progress and checks it against what was planned.
 - Led and inspired the team through coaching, mentorship, and analytical skills with a touch of humor.
 - Uses product knowledge to spot risks early and keep things moving in the right direction.
+- **Triage Team** Contributions
+  - Actively participated in the triage process, especially during high-volume periods.
+  - Investigated issues by analyzing logs and reviewing existing code
+  - Categorized findings into actionable items by converting them into Jira defects or stories as appropriate. 
 
 ## 🎨🛠️ Design & Developer Experience
 
