@@ -9,7 +9,7 @@
 - Be Proactive, Not Reactive
 - Embrace **Continuous Learning**
 - Ready to adapt or change
-- Grab the opportunity instead of waiting
+- **Grab** the opportunity instead of waiting
   
 ## 🔁 DevOps and CI/CD experience
 
@@ -116,13 +116,13 @@
 - Ensured [**DevSecOps**](DevSecOps_Practices.md) enablement by securing pipelines from vulnerabilities.
   - Implemented integration of various SAST and DAST tools.
 - Implemented Security and **secrets management** for Jenkins CI/CD and GitHub Actions work flows.
-  - Jenkins Pipelines
+  - **Jenkins Pipelines**
     - Use Credential plugins
     - Use AKV
     - Folder Level Secrets
     - Global Level secrets
     - Use RBAC plugins
-  - GitHub Actions
+  - **GitHub Actions**
     - Using self-hosted runners based on Type of Env
     - Repo Level secrets
     - Organization Level secrets
