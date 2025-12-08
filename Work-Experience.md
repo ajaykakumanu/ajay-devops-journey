@@ -149,6 +149,14 @@
    ensure seamless deployments, enforce database consistency, and enable rollback strategies across multiple environments.
 - Actively participated in product design **Architecture meetings**, PI planning, and sprint backlog grooming.
 
+## 🔁 Jenkins Administration & Legacy CI/CD Maintenance
+
+- Administered Jenkins controllers and distributed build agents, including node provisioning, labeling, and scaling to optimize CI/CD workloads across multiple environments
+- Implemented automated backup and restore procedures for Jenkins home directory, credentials, and secrets, ensuring zero downtime and secure recovery
+- Troubleshot and maintained legacy CI/CD workflows, ensuring uninterrupted deployment of critical business applications
+- Upgraded Jenkins core and plugins across legacy pipelines while maintaining production stability and compatibility with existing jobs
+- Best Practices for Jenkins Controller Maintenance
+
 ## ⚒️ Builds and Automation experience
 
 - "**Automation Mindset: Why Not Automate**?"
