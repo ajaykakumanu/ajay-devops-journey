@@ -2,8 +2,6 @@
 
 This document provides a step-by-step guide for maintaining a Jenkins controller (master) with a focus on **backup, scaling, high load handling**, and **best practices** for enterprise environments.
 
----
-
 ## 1. Backup Jenkins Controller
 
 **Step 1: Identify Critical Data**
@@ -21,7 +19,9 @@ This document provides a step-by-step guide for maintaining a Jenkins controller
 - **Credentials Storage:**
   - All credentials (username/password, API tokens, SSH keys, etc.) are stored in `credentials.xml`.
   - Secrets are encrypted using the **Jenkins master key** found in `secrets/master.key`.
-  - Additional encryption metadata (salts, encryption algorithm) is stored in `secrets/hudson.util.Secret.key` and related files.
+    - Back up the Controller Key Separately (Never include the controller key in your Jenkins backup!)
+    - https://www.jenkins.io/doc/book/system-administration/backing-up/
+    - Additional encryption metadata (salts, encryption algorithm) is stored in `secrets/hudson.util.Secret.key` and related files.
 
 - **Folder-Level Credentials:**
   - Credentials can also be scoped to folders or jobs.
@@ -191,19 +191,3 @@ This document provides a step-by-step guide for maintaining a Jenkins controller
    - Backup and restore procedure tested regularly
    - Secondary standby controller (if possible)
    - Use infrastructure as code for quick redeployment
-
----
-
-## 5. Step-by-Step Summary
-
-| Task           | Step-by-Step Actions                                                                                                            |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Backup         | Identify critical data → Include credentials & secrets → Encrypt backup → Store securely → Limit access → Test restore         |
-| Scaling        | Keep master light → Use agents → Auto-scale agents → Optimize plugins                                                           |
-| High Load      | Monitor metrics → Increase resources → Optimize pipelines → Queue management → Use external services                            |
-| Best Practices | Lightweight master → Regular backups → Security → Monitoring → Ephemeral agents → Automate tasks → Document → Disaster recovery |
-
----
-
-Securing secrets while backing up ensures that **even if someone discovers the backup location, sensitive credentials remain encrypted and inaccessible**, mitigating the risk of credential theft.
-
