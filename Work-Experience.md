@@ -152,10 +152,10 @@
 ## 🔁 Jenkins Administration & Legacy CI/CD Maintenance
 
 - Administered Jenkins controllers and distributed build agents, including node provisioning, labeling, and scaling to optimize CI/CD workloads across multiple environments
-- Implemented automated backup and restore procedures for Jenkins home directory, credentials, and secrets, ensuring zero downtime and secure recovery
+- Implemented automated backup ( Ex: Thin Backcup plugin )and restore procedures for Jenkins home directory, credentials, and secrets, ensuring zero downtime and secure recovery
 - Troubleshot and maintained legacy CI/CD workflows, ensuring uninterrupted deployment of critical business applications
 - Upgraded Jenkins core and plugins across legacy pipelines while maintaining production stability and compatibility with existing jobs
-- Best Practices for Jenkins Controller Maintenance
+- [**Best Practices for Jenkins Controller Maintenance**](Jenkins_controller_maintenance_best_practices.md)
 
 ## ⚒️ Builds and Automation experience
 
