@@ -1,9 +1,9 @@
 <h3 align="center" style="color:#FF5733;">🎯 <strong>Ajay Kakumanu</strong></h3>
 <h4 align="center" style="color:#3498DB;"><em>Building the Future of DevOps</em></h4>
 <p align="center">
-  <strong>🌐 <span style="color:#27AE60;">DevOps</span> • 
-    <span style="color:#9B59B6;">Systems Engineer</span>
-    <span style="color:#9B59B6;">CI/CD Specialist</span> • 
+  <strong>🌐 <span style="color:#27AE60;">DevOps</span>  | 
+    <span style="color:#9B59B6;">Systems Engineer</span>  | 
+    <span style="color:#9B59B6;">CI/CD Specialist</span>  | 
   <span style="color:#E67E22;">Build & Release Engineer</span></strong>
 </p>
 <p align="center" style="color:#2ECC71;"><strong>🚀 DevOps: More than a job, it's my Passion for empowering teams through scalable and automated solutions</strong></p>
