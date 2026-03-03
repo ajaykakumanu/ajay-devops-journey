@@ -11,8 +11,8 @@
 &nbsp;
 
 ## 📝 <span style="color:#F39C12"><strong>SUMMARY</strong></span>
-- Seasoned Software Engineer with over 15+ years of industry experience in **Software development** and **DevOps/**SRE practices. Equipped with a proven track record of building robust software solutions and optimizing development workflows.
-- 9+ years of experience in multi-cloud computing platforms (AWS, Azure, GCP) and **modernizing**, **automating** legacy applications, and implementing **DevOps**/SRE **practices**.
+- Seasoned Software Engineer with over 17+ years of industry experience in **Software development** and **DevOps/**SRE practices. Equipped with a proven track record of building robust software solutions and optimizing development workflows.
+- 10+ years of experience in multi-cloud computing platforms (AWS, Azure, GCP) and **modernizing**, **automating** legacy applications, and implementing **DevOps**/SRE **practices**.
 - Hands-on experience with **Containerization** technologies (Docker, Kubernetes).
 - Proficient in various **Cloud design patterns** and **Cloud best practices**.
 - Expertise in Cloud and Kubernetes **Deployment strategies**.
