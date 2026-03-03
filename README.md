@@ -43,17 +43,15 @@
 - [AWS Certified Solutions Architect-Professional Level](https://drive.google.com/file/d/1ZRU_27O6pwc5ZaWLAaYSxjvUIASUULz3/view?usp=drive_link) 
 
 ## 🏆 <span style="color:#F39C12"><strong>Accomplishments</strong></span>
+- Implemented Automated PSR Test Runs Tool and Saved ~$200K /year.
+- Implemented Automated In-spec Test tool using creative CI/CD pipelines and saved ~$60K/year.
+- Reduced manual efforts by 70% through Automating notification processes for pipeline failures via seamless integration of Jenkins, Python, OpenTelemetry, Opsgenie tools, incorporated Agentic AI agents using python.
+- Successfully reduced deployment time by strategically enhancing parallelism within Jenkins pipelines, resulting in a 30% improvement in overall release time.
+- Automated regression testing framework modernization: 75% faster development, 80% fewer release defects.
+- Established proactive monitoring practices using the USE method to detect potential issues before they impact users, improving system reliability and reducing unplanned outages by 25%.
+- Modernized legacy Jenkins platform to latest LTS, resolving plugin dependency conflicts, removing deprecated plugins, and standardizing plugin governance, improving CI stability by 40% and reducing failures.
+- Reduced CI/CD build time from 15 hours to 7 hours and pipeline failure rate by 70% by architecting scalable, reliable, and highly parallelized CI/CD workflows.
 
-- Implemented Automated PSR Test Runs Tool and Saved ~$200,000/year.
-- Implemented Automated In-spec Test tool using creative **CI/CD pipelines** and saved ~$60,000/year.
-- Boosted customer deployments by 30% through concurrent, parallel, and scalable deployment strategies.
-- Reduced manual efforts by 70% through **Automating notification** processes for pipeline failures via seamless integration 
-  of Jenkins, Python, **OpenTelemetry, Jaeger**, and Opsgenie tools
-- Successfully reduced deployment time by strategically enhancing **parallelism** within Jenkins pipelines, resulting in a 
-  30% improvement in overall release time.
-- Reduced development time by 75% and release defects rate by 80% through modernization.
-- Established **proactive monitoring practices** using the **USE** method to detect potential issues before they impact 
-  users, improving system reliability and reducing unplanned outages by 25%.
 
 ## 💼 <span style="color:#F39C12"><strong>[**Detailed Work Experience**](Work-Experience.md)</strong></span>
 
