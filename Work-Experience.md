@@ -156,6 +156,14 @@
 - Troubleshot and maintained legacy CI/CD workflows, ensuring uninterrupted deployment of critical business applications
 - Upgraded Jenkins core and plugin ecosystem across legacy pipelines, resolving compatibility issues while preserving production stability and existing job   behavior.[**Technical Challenges in Upgrading Legacy Jenkins Plugins**](Jenkins_controller_maintenance_best_practices.md)
 - [**Best Practices for Jenkins Controller Maintenance**](Jenkins_controller_maintenance_best_practices.md)
+- Integrated Jenkins Node Sharing Plugin (https://plugins.jenkins.io/node-sharing-executor/) to enable distributed build execution across
+  agents, reducing controller load, improving CI scalability, and accelerating pipeline performance.
+   - Managed Jenkins node configurations via repository-driven XML definitions (nodes/<agent-name>.xml), defining executor counts, JDK paths,
+     labels, and remote workspace settings to support scalable distributed builds.
+- Leveraged Jenkins Configuration as Code (JCasC) and repository-managed node definitions to automate agent provisioning, configure executor
+  capacity, define Java home paths, and maintain consistent distributed build environments across clusters.
+ 
+   - 
 
 ## ⚒️ Builds and Automation experience
 
