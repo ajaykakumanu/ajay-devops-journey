@@ -163,8 +163,6 @@
 - Leveraged Jenkins Configuration as Code (JCasC) and repository-managed node definitions to automate agent provisioning, configure executor
   capacity, define Java home paths, and maintain consistent distributed build environments across clusters.
  
-   - 
-
 ## ⚒️ Builds and Automation experience
 
 - "**Automation Mindset: Why Not Automate**?"
@@ -305,3 +303,26 @@
   - Performed **automated version upgrades**.
   - Mitigated known vulnerabilities and kept libraries up to date.
 - Explored **MLOps concepts** (AI and Machine Learning Operations).
+
+## 🏗️ Native Build Systems & Embedded Engineering
+
+- Designed and enhanced **embedded build and release systems**, streamlining firmware packaging, dependency management, and reproducible builds.- - Applied problem-solving and Critical thinking skills to identify and fix issues in Apps.
+- Proficient in the end-to-end **C/C++ program development lifecycle**, from Preprocessing and Compilation to Linking (Static and Dynamic
+  linking),Optimization, and cache-friendly code practices.
+- Participated in product testing, verification, and validation processes to ensure high-quality deliverables.
+- Demonstrated adaptability and flexibility in approaching complex challenges in mobile app development.
+- Managed software dependency management system to ensure smooth and error-free builds and releases.
+- Proficiently led Root cause analysis(RCA) for incidents through the utilization of incident post-mortems to accurately diagnose and resolve
+  issues, Added step by step documentation.
+- Extensive experience with **distributed build systems** and build automation tools like **Make and CMake**, ensuring efficient development
+  processes and orchestration.
+- Expert in memory layout optimization and proficient in implementing robust memory management techniques to prevent memory leaks and enhance
+  application stability.
+- Collaboration with different compilers and handset configurations, ensuring compatibility and reliability.
+- Performed full board bring-up and Linux kernel customization for embedded platforms, including bootloader configuration, device tree
+  modifications, and kernel module development.
+- Debugged kernel and memory issues using dmesg, printk, and kernel tracing tools.
+
+
+
+
