@@ -11,6 +11,25 @@
 - Ready to adapt or change
 - **Grab** the opportunity instead of waiting
   
+## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
+
+- Integrated Agentic AI capabilities into CI/CD pipelines to automatically detect build failures, analyze logs, recommend and apply fixes, improving recovery time and pipeline resilience.
+- Developed MCP (Model Context Protocol) server integrations and AI-agent workflows to enable secure interaction between CI/CD systems, Jenkins pipelines, and operational tooling.
+- Built AI-assisted DevOps automation using GitHub Copilot and Python to enhance pipeline intelligence, productivity, and deployment efficiency.
+- Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
+- Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
+  and improving documentation.
+- Used **GitHub Copilot** to assist with:
+  - Pull Request (PR) Reviews
+  - Generate Documentation
+  - Code Refactoring
+  - Code Formatting
+  - Test Case Generation
+- Integrated **Dependabot** to manage dependencies proactively:
+  - Performed **automated version upgrades**.
+  - Mitigated known vulnerabilities and kept libraries up to date.
+- Explored **MLOps concepts** (AI and Machine Learning Operations).
+
 ## 🔁 DevOps and CI/CD experience
 
 - Created **Docker** images for WMS/WLM applications with best practices.
@@ -290,6 +309,9 @@
 
 ## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 
+- Integrated Agentic AI capabilities into CI/CD pipelines to automatically detect build failures, analyze logs, recommend and apply fixes, improving recovery time and pipeline resilience.
+- Developed MCP (Model Context Protocol) server integrations and AI-agent workflows to enable secure interaction between CI/CD systems, Jenkins pipelines, and operational tooling.
+- Built AI-assisted DevOps automation using GitHub Copilot and Python to enhance pipeline intelligence, productivity, and deployment efficiency.
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
 - Researched and crafted appropriate **prompts** to speed up code development, including refactoring, adding unit test cases, 
   and improving documentation.
