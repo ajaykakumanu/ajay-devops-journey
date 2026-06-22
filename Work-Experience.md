@@ -13,7 +13,7 @@
   
 ## 🤖 AI-Augmented Developer Workflow (Vibe Coding Mode 🔥)
 
-- Integrated Agentic AI capabilities into CI/CD pipelines to automatically detect build failures, analyze logs, recommend and apply fixes, improving recovery time and pipeline resilience.
+- Integrated **Agentic AI** capabilities into CI/CD pipelines to automatically detect build failures, analyze logs, recommend and apply fixes, improving recovery time and pipeline resilience.
 - Developed MCP (Model Context Protocol) server integrations and AI-agent workflows to enable secure interaction between CI/CD systems, Jenkins pipelines, and operational tooling.
 - Built AI-assisted DevOps automation using GitHub Copilot and Python to enhance pipeline intelligence, productivity, and deployment efficiency.
 - Harnessing the power of AI tools to supercharge software development with efficiency, clarity, and precision.
